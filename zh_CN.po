@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Charisma Theme\n"
 "POT-Creation-Date: 2014-03-17 13:12+0800\n"
-"PO-Revision-Date: 2014-03-18 00:39+0800\n"
-"Last-Translator: Yin <yinxiaoyu888@gmail.com>\n"
+"PO-Revision-Date: 2014-03-18 00:40+0800\n"
+"Last-Translator: XCoderLiu <XCoderLiu@gmail.com>\n"
 "Language-Team: CocoaStrom <yinxiaoyu888@gmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -528,7 +528,7 @@ msgstr "标签"
 
 #: ../framework/admin/functions/functions.options.php:580
 msgid "Custom Slider"
-msgstr "自定义滑块"
+msgstr "自定义滑动条"
 
 #: ../framework/admin/functions/functions.options.php:596
 msgid "for multiple tags Separate with commas"
@@ -618,8 +618,8 @@ msgid ""
 "default color for posts boxes, feature slider, tabs, accordions, quotes.., "
 "shorly its the main color of most elements on the theme"
 msgstr ""
-"文章box、滑块功能、标签、折叠、引用等等的默认颜色简单的说就是这个主题中大部分"
-"元素的颜色"
+"文章box、滑动条、标签、折叠、引用等等的默认颜色简单的说就是这个主题中大部分元"
+"素的颜色"
 
 #: ../framework/admin/functions/functions.options.php:704
 msgid "Main wrap"
@@ -675,7 +675,7 @@ msgstr "导航路径底部边框"
 
 #: ../framework/admin/functions/functions.options.php:775
 msgid "Scroll to Top background"
-msgstr ""
+msgstr "滚动到顶部背景"
 
 #: ../framework/admin/functions/functions.options.php:782
 msgid "body"
@@ -706,7 +706,7 @@ msgstr "主体排版"
 
 #: ../framework/admin/functions/functions.options.php:805
 msgid "body text such as pargraphs, spans, em"
-msgstr ""
+msgstr "body text such as pargraphs, spans, em"
 
 #: ../framework/admin/functions/functions.options.php:812
 #: ../framework/admin/functions/functions.options.php:1169
@@ -1038,15 +1038,15 @@ msgstr "内容文本颜色"
 
 #: ../framework/admin/functions/functions.options.php:1297
 msgid "Accordions"
-msgstr ""
+msgstr "Accordions"
 
 #: ../framework/admin/functions/functions.options.php:1298
 msgid "<h3 style=\"text-align:center;\">Accordions</h3>"
-msgstr ""
+msgstr "<h3 style=\"text-align:center;\">Accordions</h3>"
 
 #: ../framework/admin/functions/functions.options.php:1302
 msgid "Accordions Titles Typography"
-msgstr ""
+msgstr "Accordions Titles Typography"
 
 #: ../framework/admin/functions/functions.options.php:1308
 msgid "Title background"
@@ -1054,19 +1054,19 @@ msgstr "标题背景"
 
 #: ../framework/admin/functions/functions.options.php:1320
 msgid "Accordion Handle color"
-msgstr ""
+msgstr "Accordion Handle color"
 
 #: ../framework/admin/functions/functions.options.php:1322
 msgid "plus or arrow, number color"
-msgstr ""
+msgstr "加号或者箭头，数字颜色"
 
 #: ../framework/admin/functions/functions.options.php:1327
 msgid "Current Accordion background"
-msgstr ""
+msgstr "当前折叠器的背景颜色"
 
 #: ../framework/admin/functions/functions.options.php:1333
 msgid "Current Accordion text color"
-msgstr ""
+msgstr "当前折叠器文本样色"
 
 #: ../framework/admin/functions/functions.options.php:1339
 msgid "Content background"
@@ -1078,169 +1078,169 @@ msgstr "内容文本"
 
 #: ../framework/admin/functions/functions.options.php:1351
 msgid "toggles"
-msgstr ""
+msgstr "触发器"
 
 #: ../framework/admin/functions/functions.options.php:1352
 msgid "<h3 style=\"text-align:center;\">Toggles</h3>"
-msgstr ""
+msgstr "<h3 style=\"text-align:center;\">Toggles</h3>"
 
 #: ../framework/admin/functions/functions.options.php:1356
 msgid "Title Typography"
-msgstr ""
+msgstr "标题字体"
 
 #: ../framework/admin/functions/functions.options.php:1362
 msgid "background"
-msgstr ""
+msgstr "背景"
 
 #: ../framework/admin/functions/functions.options.php:1374
 msgid "Active toggle background"
-msgstr ""
+msgstr "激活切换背景"
 
 #: ../framework/admin/functions/functions.options.php:1380
 msgid "Active toggle title"
-msgstr ""
+msgstr "激活切换标题"
 
 #: ../framework/admin/functions/functions.options.php:1386
 msgid "Active toggle content"
-msgstr ""
+msgstr "激活切换内容"
 
 #: ../framework/admin/functions/functions.options.php:1393
 msgid "Testimonials"
-msgstr ""
+msgstr "感言"
 
 #: ../framework/admin/functions/functions.options.php:1410
 msgid "content"
-msgstr ""
+msgstr "内容"
 
 #: ../framework/admin/functions/functions.options.php:1419
 msgid "Form Elements"
-msgstr ""
+msgstr "窗体元素"
 
 #: ../framework/admin/functions/functions.options.php:1436
 msgid "placeholder/value"
-msgstr ""
+msgstr "占位符/value"
 
 #: ../framework/admin/functions/functions.options.php:1442
 msgid "Widgets Submit Button background"
-msgstr ""
+msgstr "小工具提交按钮背景"
 
 #: ../framework/admin/functions/functions.options.php:1448
 msgid "Widgets Submit Button text"
-msgstr ""
+msgstr "小工具提交按钮文本"
 
 #: ../framework/admin/functions/functions.options.php:1454
 msgid "Post Submit Button background"
-msgstr ""
+msgstr "文章提交按钮背景"
 
 #: ../framework/admin/functions/functions.options.php:1460
 msgid "Post Submit Button border"
-msgstr ""
+msgstr "文章提交按钮边界"
 
 #: ../framework/admin/functions/functions.options.php:1465
 msgid "Posts Submit Button text"
-msgstr ""
+msgstr "文章提交按钮文本"
 
 #: ../framework/admin/functions/functions.options.php:1478
 msgid "Custom CSS"
-msgstr ""
+msgstr "自定义CSS"
 
 #: ../framework/admin/functions/functions.options.php:1480
 msgid "inser Your Custom CSS herer"
-msgstr ""
+msgstr "在这里输入你的自定义CSS"
 
 #: ../framework/admin/functions/functions.options.php:1490
 msgid "Tablet Custom CSS"
-msgstr ""
+msgstr "自定义CSS模块"
 
 #: ../framework/admin/functions/functions.options.php:1492
 msgid ""
 "insert Your Custom CSS here, you will see this only on tablet with screen "
 "size bigger than 768px smaller than 960px"
-msgstr ""
+msgstr "在这插入你的CSS，你将会看到一个尺寸在768像素到960像素的模块"
 
 #: ../framework/admin/functions/functions.options.php:1502
 msgid "Landscape Mobiles"
-msgstr ""
+msgstr "手机横置"
 
 #: ../framework/admin/functions/functions.options.php:1504
 msgid ""
 "insert Your Custom CSS here, you will see this only on mobiles with screen "
 "size bigger than 480px smaller than 767px"
-msgstr ""
+msgstr "在这里插入你的自定义CSS,你将看到这只有手机屏幕大小，介于480 px到767 px"
 
 #: ../framework/admin/functions/functions.options.php:1509
 msgid "Portrait Mobiles"
-msgstr ""
+msgstr "Portrait Mobiles"
 
 #: ../framework/admin/functions/functions.options.php:1511
 msgid ""
 "insert Your Custom CSS here, you will see this only on mobiles with screen "
 "size bigger than 320px smaller than 480px"
-msgstr ""
+msgstr "在这里插入您的自定义CSS,您将看到这只有手机屏幕大小，介于320 px到480 px"
 
 #: ../framework/class-tgm-plugin-activation.php:155
 #: ../framework/plugins.php:31
 msgid "Install Required Plugins"
-msgstr ""
+msgstr "安装必要的插件"
 
 #: ../framework/class-tgm-plugin-activation.php:156
 #: ../framework/plugins.php:32
 msgid "Install Plugins"
-msgstr ""
+msgstr "安装插件"
 
 #: ../framework/class-tgm-plugin-activation.php:157
 #: ../framework/plugins.php:33
 #, php-format
 msgid "Installing Plugin: %s"
-msgstr ""
+msgstr "正在安装: %s"
 
 #: ../framework/class-tgm-plugin-activation.php:158
 msgid "Something went wrong."
-msgstr ""
+msgstr "出问题了"
 
 #: ../framework/class-tgm-plugin-activation.php:169
 #: ../framework/plugins.php:45
 msgid "Return to Required Plugins Installer"
-msgstr ""
+msgstr "返回必要插件安装器"
 
 #: ../framework/class-tgm-plugin-activation.php:170
 msgid "Return to the dashboard"
-msgstr ""
+msgstr "返回到仪表盘"
 
 #: ../framework/class-tgm-plugin-activation.php:171
 #: ../framework/class-tgm-plugin-activation.php:1840
 #: ../framework/plugins.php:46
 msgid "Plugin activated successfully."
-msgstr ""
+msgstr "插件激活成功"
 
 #: ../framework/class-tgm-plugin-activation.php:172
 msgid "The following plugin was activated successfully:"
-msgstr ""
+msgstr "以下插件已经成功激活"
 
 #: ../framework/class-tgm-plugin-activation.php:173
 #, php-format
 msgid "All plugins installed and activated successfully. %1$s"
-msgstr ""
+msgstr "所有已安装插件并激活成功. %1$s"
 
 #: ../framework/class-tgm-plugin-activation.php:174
 msgid "Dismiss this notice"
-msgstr ""
+msgstr "忽略这个通知"
 
 #: ../framework/class-tgm-plugin-activation.php:1085
 msgid "External Link"
-msgstr ""
+msgstr "外部链接"
 
 #: ../framework/class-tgm-plugin-activation.php:1090
 msgid "Private Repository"
-msgstr ""
+msgstr "私人版本库"
 
 #: ../framework/class-tgm-plugin-activation.php:1093
 msgid "Pre-Packaged"
-msgstr ""
+msgstr "Pre-Packaged"
 
 #: ../framework/class-tgm-plugin-activation.php:1097
 msgid "WordPress Repository"
-msgstr ""
+msgstr "WordPress Repository"
 
 #: ../framework/class-tgm-plugin-activation.php:1100
 msgid "Required"
@@ -1264,133 +1264,135 @@ msgid ""
 "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
 "Dashboard\">Return to the Dashboard</a>"
 msgstr ""
+"没有插件去安装或激活。<a href=\"%1$s\" title=\"Return to the Dashboard"
+"\">Return to the Dashboard</a>"
 
 #: ../framework/class-tgm-plugin-activation.php:1291
 msgid "Plugin"
-msgstr ""
+msgstr "插件"
 
 #: ../framework/class-tgm-plugin-activation.php:1292
 msgid "Source"
-msgstr ""
+msgstr "源"
 
 #: ../framework/class-tgm-plugin-activation.php:1293
 #: ../framework/metaboxes/portfolio-st.php:6
 #: ../framework/metaboxes/posts-st.php:40
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: ../framework/class-tgm-plugin-activation.php:1294
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: ../framework/class-tgm-plugin-activation.php:1312
 msgid "Install"
-msgstr ""
+msgstr "安装"
 
 #: ../framework/class-tgm-plugin-activation.php:1313
 msgid "Activate"
-msgstr ""
+msgstr "激活"
 
 #: ../framework/class-tgm-plugin-activation.php:1823
 msgid "Install package not available."
-msgstr ""
+msgstr "安装包无效"
 
 #: ../framework/class-tgm-plugin-activation.php:1824
 #, php-format
 msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
-msgstr ""
+msgstr "下载安装包从<span class=\"code\">%s</span>&#8230;"
 
 #: ../framework/class-tgm-plugin-activation.php:1825
 msgid "Unpacking the package&#8230;"
-msgstr ""
+msgstr "卸载安装包&#8230;"
 
 #: ../framework/class-tgm-plugin-activation.php:1826
 msgid "Installing the plugin&#8230;"
-msgstr ""
+msgstr "安装插件&#8230;"
 
 #: ../framework/class-tgm-plugin-activation.php:1827
 msgid "Plugin install failed."
-msgstr ""
+msgstr "插件安装失败"
 
 #: ../framework/class-tgm-plugin-activation.php:1828
 msgid "Plugin installed successfully."
-msgstr ""
+msgstr "插件安装成功"
 
 #: ../framework/class-tgm-plugin-activation.php:1839
 msgid "Plugin activation failed."
-msgstr ""
+msgstr "插件激活失败"
 
 #: ../framework/class-tgm-plugin-activation.php:1949
 msgid ""
 "The installation and activation process is starting. This process may take a "
 "while on some hosts, so please be patient."
-msgstr ""
+msgstr "安装和激活进程开始。这个过程可能需要花费一些时间,请耐心等待。"
 
 #: ../framework/class-tgm-plugin-activation.php:1950
 #, php-format
 msgid "%1$s installed and activated successfully."
-msgstr ""
+msgstr "%1$s 安装并激活成功"
 
 #: ../framework/class-tgm-plugin-activation.php:1950
 #: ../framework/class-tgm-plugin-activation.php:1959
 msgid "Show Details"
-msgstr ""
+msgstr "显示详细信息"
 
 #: ../framework/class-tgm-plugin-activation.php:1950
 #: ../framework/class-tgm-plugin-activation.php:1959
 msgid "Hide Details"
-msgstr ""
+msgstr "隐藏详细信息"
 
 #: ../framework/class-tgm-plugin-activation.php:1951
 msgid "All installations and activations have been completed."
-msgstr ""
+msgstr "所有的安装盒激活已经完成"
 
 #: ../framework/class-tgm-plugin-activation.php:1952
 #, php-format
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "插件安装和激活正在进行 %1$s (%2$d/%3$d)"
 
 #: ../framework/class-tgm-plugin-activation.php:1956
 msgid ""
 "The installation process is starting. This process may take a while on some "
 "hosts, so please be patient."
-msgstr ""
+msgstr "安装进程已经启动。这个过程可能会花费一些时间，请耐心等待。"
 
 #: ../framework/class-tgm-plugin-activation.php:1957
 #, php-format
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
-msgstr ""
+msgstr "安装过程中出现了一个错误 %1$s: <strong>%2$s</strong>。"
 
 #: ../framework/class-tgm-plugin-activation.php:1958
 #, php-format
 msgid "The installation of %1$s failed."
-msgstr ""
+msgstr "安装 %1$s 失败。"
 
 #: ../framework/class-tgm-plugin-activation.php:1959
 #, php-format
 msgid "%1$s installed successfully."
-msgstr ""
+msgstr "%1$s 安装成功"
 
 #: ../framework/class-tgm-plugin-activation.php:1960
 msgid "All installations have been completed."
-msgstr ""
+msgstr "所有安装已经完成"
 
 #: ../framework/class-tgm-plugin-activation.php:1961
 #, php-format
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "插件安装中 %1$s (%2$d/%3$d)"
 
 #: ../framework/class-tgm-plugin-activation.php:2052
 msgid "Return to the Dashboard"
-msgstr ""
+msgstr "返回仪表盘"
 
 #: ../framework/functions/comments.php:11
 msgid "Pingback:"
-msgstr ""
+msgstr "广播"
 
 #: ../framework/functions/comments.php:11
 msgid "(Edit)"
-msgstr ""
+msgstr "(Edit)"
 
 #: ../framework/functions/comments.php:34
 msgid "Your comment is awaiting moderation."
@@ -1407,7 +1409,7 @@ msgstr "编辑"
 #: ../framework/functions/comments.php:43
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s at %2$s"
 
 #: ../framework/functions/comments.php:47
 msgid "Reply"
@@ -1419,11 +1421,11 @@ msgstr "分享"
 
 #: ../framework/functions/functions.php:197
 msgid "StumbleUpon"
-msgstr ""
+msgstr "StumbleUpon"
 
 #: ../framework/functions/functions.php:228
 msgid "More"
-msgstr ""
+msgstr "更多"
 
 #: ../framework/functions/functions.php:237
 msgid "&laquo; Previous"
@@ -1456,31 +1458,31 @@ msgstr "插入 Twitter 用户名"
 
 #: ../framework/functions/functions.php:416
 msgid "Insert facebook page URL"
-msgstr ""
+msgstr "插入 Facebook 页面链接"
 
 #: ../framework/functions/functions.php:425
 msgid "Insert LinkedIn URL"
-msgstr ""
+msgstr "插入 LinkedIn 链接"
 
 #: ../framework/functions/functions.php:434
 msgid "Inesrt google+ URL"
-msgstr ""
+msgstr "插入 google+ 链接"
 
 #: ../framework/functions/functions.php:443
 msgid "Inesrt flickr URL"
-msgstr ""
+msgstr "插入 flickr 链接"
 
 #: ../framework/functions/functions.php:452
 msgid "Inesrt Youtube URL"
-msgstr ""
+msgstr "插入 Youtube 链接"
 
 #: ../framework/functions/functions.php:456
 msgid "Pintrest"
-msgstr ""
+msgstr "Pintrest"
 
 #: ../framework/functions/functions.php:460
 msgid "Inesrt Pintrest URL"
-msgstr ""
+msgstr "插入 Pintrest 链接"
 
 #: ../framework/functions/portfolio.php:52
 msgid "All"
@@ -1488,31 +1490,31 @@ msgstr "所有"
 
 #: ../framework/functions/portfolio.php:241
 msgid "Client:"
-msgstr ""
+msgstr "客户端："
 
 #: ../framework/functions/portfolio.php:247
 msgid "Date:"
-msgstr ""
+msgstr "日期："
 
 #: ../framework/functions/portfolio.php:254
 msgid "Categories:"
-msgstr ""
+msgstr "分类："
 
 #: ../framework/functions/portfolio.php:265
 msgid "Project URL:"
-msgstr ""
+msgstr "项目链接："
 
 #: ../framework/functions/portfolio.php:266
 msgid "View Project"
-msgstr ""
+msgstr "项目视图："
 
 #: ../framework/functions/portfolio.php:273
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #: ../framework/functions/portfolio.php:300
 msgid "Related Projects"
-msgstr ""
+msgstr "相关项目"
 
 #: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:50
 msgid "Home"
@@ -1530,32 +1532,32 @@ msgstr "归档为"
 
 #: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:192
 msgid "Search results for \""
-msgstr ""
+msgstr "Search results for \""
 
 #: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:239
 msgid "Split"
-msgstr ""
+msgstr "过滤"
 
 #: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:242
 msgid "Merge"
-msgstr ""
+msgstr "合并"
 
 #: ../framework/inc/sidebar_generator.php:165
 #: ../framework/inc/sidebar_generator.php:187
 msgid "Custom Sidebars"
-msgstr ""
+msgstr "自定义侧边栏"
 
 #: ../framework/inc/sidebar_generator.php:190
 msgid "+ Add Sidebar"
-msgstr ""
+msgstr "添加侧边栏"
 
 #: ../framework/inc/sidebar_generator.php:195
 msgid "Name"
-msgstr ""
+msgstr "姓名"
 
 #: ../framework/inc/sidebar_generator.php:196
 msgid "CSS class"
-msgstr ""
+msgstr "CSS 类"
 
 #: ../framework/inc/sidebar_generator.php:197
 msgid "Remove"
@@ -1563,7 +1565,7 @@ msgstr "移除"
 
 #: ../framework/inc/sidebar_generator.php:218
 msgid "No Sidebars defined"
-msgstr ""
+msgstr "没有定义的侧边栏"
 
 #: ../framework/main.php:178
 msgid "Main Menu"
@@ -1571,43 +1573,43 @@ msgstr "主菜单"
 
 #: ../framework/main.php:217
 msgid "Main Sidebar"
-msgstr ""
+msgstr "主侧边栏"
 
 #: ../framework/main.php:219
 msgid "Default sidebar."
-msgstr ""
+msgstr "默认侧边栏"
 
 #: ../framework/main.php:229
 msgid "Footer 1"
-msgstr ""
+msgstr "页脚1"
 
 #: ../framework/main.php:239
 msgid "Footer 2"
-msgstr ""
+msgstr "页脚2"
 
 #: ../framework/main.php:249
 msgid "Footer 3"
-msgstr ""
+msgstr "页脚3"
 
 #: ../framework/main.php:259
 msgid "Footer 4"
-msgstr ""
+msgstr "页脚4"
 
 #: ../framework/main.php:269
 msgid "Footer 5"
-msgstr ""
+msgstr "页脚5"
 
 #: ../framework/main.php:279
 msgid "Footer 6"
-msgstr ""
+msgstr "页脚6"
 
 #: ../framework/main.php:345
 msgid "No Categories"
-msgstr ""
+msgstr "没有分类"
 
 #: ../framework/main.php:496
 msgid "Select Language :"
-msgstr ""
+msgstr "选择语言"
 
 #: ../framework/metaboxes/apple-meta.php:10
 #: ../framework/metaboxes/portfolio-meta.php:41
@@ -1615,57 +1617,57 @@ msgstr ""
 #: ../framework/metaboxes/posts-st.php:11
 #: ../framework/metaboxes/slider-meta.php:52
 msgid "Remove <img src=\""
-msgstr ""
+msgstr "移除 <img src=\""
 
 #: ../framework/metaboxes/apple-meta.php:13
 #: ../framework/metaboxes/portfolio-st.php:33
 #: ../framework/metaboxes/posts-st.php:14
 #: ../framework/metaboxes/slider-meta.php:55
 msgid "upload Image"
-msgstr ""
+msgstr "上传图片"
 
 #: ../framework/metaboxes/apple-meta.php:25
 #: ../framework/metaboxes/slider-meta.php:126
 msgid "Link"
-msgstr ""
+msgstr "链接"
 
 #: ../framework/metaboxes/apple-meta.php:28
 #: ../framework/metaboxes/slider-meta.php:129
 msgid "Link Target"
-msgstr ""
+msgstr "链接目标"
 
 #: ../framework/metaboxes/apple-meta.php:31
 #: ../framework/metaboxes/slider-meta.php:132
 msgid "Open link in the same window"
-msgstr ""
+msgstr "同一窗口打开链接"
 
 #: ../framework/metaboxes/apple-meta.php:32
 #: ../framework/metaboxes/slider-meta.php:133
 msgid "Open link in new window"
-msgstr ""
+msgstr "在新窗口中打开链接"
 
 #: ../framework/metaboxes/apple-meta.php:41
 #: ../framework/metaboxes/portfolio-st.php:53
 #: ../framework/metaboxes/posts-st.php:34
 #: ../framework/metaboxes/slider-meta.php:142
 msgid "Add Slide <img src=\""
-msgstr ""
+msgstr "添加幻灯片 <img src=\""
 
 #: ../framework/metaboxes/inc/classes/meta-box.php:254
 msgid "Please correct the errors highlighted below and try again."
-msgstr ""
+msgstr "请改正以下高亮的错误并再次尝试"
 
 #: ../framework/metaboxes/inc/classes/meta-box.php:428
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: ../framework/metaboxes/inc/classes/meta-box.php:450
 msgid "&#8211;"
-msgstr ""
+msgstr "&#8211;"
 
 #: ../framework/metaboxes/inc/fields/button.php:36
 msgid "Click me"
-msgstr ""
+msgstr "点击我"
 
 #: ../framework/metaboxes/inc/fields/file-advanced.php:23
 msgid "Select Files"
@@ -1691,113 +1693,113 @@ msgstr "选择图片"
 
 #: ../framework/metaboxes/inc/fields/image.php:64
 msgid "Order saved"
-msgstr ""
+msgstr "Order saved"
 
 #: ../framework/metaboxes/inc/fields/map.php:48
 msgid "Find Address"
-msgstr ""
+msgstr "寻找地址"
 
 #: ../framework/metaboxes/inc/fields/post.php:54
 msgid "Post"
-msgstr ""
+msgstr "文章"
 
 #: ../framework/metaboxes/inc/fields/post.php:68
 #: ../framework/metaboxes/inc/fields/taxonomy.php:40
 #, php-format
 msgid "Select a %s"
-msgstr ""
+msgstr "选择一个 %s"
 
 #: ../framework/metaboxes/inc/fields/select-advanced.php:71
 msgid "Select a value"
-msgstr ""
+msgstr "选一个值"
 
 #: ../framework/metaboxes/portfolio-meta.php:7
 msgid "Client"
-msgstr ""
+msgstr "客户端"
 
 #: ../framework/metaboxes/portfolio-meta.php:13
 msgid "Hide Date"
-msgstr ""
+msgstr "隐藏日期"
 
 #: ../framework/metaboxes/portfolio-meta.php:15
 #: ../framework/metaboxes/portfolio-meta.php:24
 #: ../framework/metaboxes/portfolio-st.php:19
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: ../framework/metaboxes/portfolio-meta.php:16
 #: ../framework/metaboxes/portfolio-meta.php:25
 #: ../framework/metaboxes/portfolio-st.php:20
 msgid "Yes"
-msgstr ""
+msgstr "Yes"
 
 #: ../framework/metaboxes/portfolio-meta.php:22
 msgid "Hide Category"
-msgstr ""
+msgstr "隐藏分类"
 
 #: ../framework/metaboxes/portfolio-meta.php:31
 msgid "Project Url"
-msgstr ""
+msgstr "项目链接"
 
 #: ../framework/metaboxes/portfolio-meta.php:35
 msgid "Custom Portfolio Details"
-msgstr ""
+msgstr "自定义组合细节"
 
 #: ../framework/metaboxes/portfolio-meta.php:52
 msgid "Content"
-msgstr ""
+msgstr "内容"
 
 #: ../framework/metaboxes/portfolio-meta.php:62
 msgid "Add Info <img src=\""
-msgstr ""
+msgstr "添加信息 <img src=\""
 
 #: ../framework/metaboxes/portfolio-spec.php:5
 msgid "Portfolio Details"
-msgstr ""
+msgstr "文件夹细节"
 
 #: ../framework/metaboxes/portfolio-spec.php:13
 msgid "Portfolio Settings"
-msgstr ""
+msgstr "文件夹设置"
 
 #: ../framework/metaboxes/portfolio-st.php:8
 msgid "Image"
-msgstr ""
+msgstr "图片"
 
 #: ../framework/metaboxes/portfolio-st.php:9 ../framework/types/slider.php:16
 #: ../framework/types/slider.php:18
 msgid "Slider"
-msgstr ""
+msgstr "滑动器"
 
 #: ../framework/metaboxes/portfolio-st.php:10
 #: ../framework/widgets/video-widget.php:60
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 #: ../framework/metaboxes/portfolio-st.php:12
 msgid "Select Portfolio Type \"image, slider, video\""
-msgstr ""
+msgstr "选择文件夹类型 \"image, slider, video\""
 
 #: ../framework/metaboxes/portfolio-st.php:17
 msgid "Use Feature Image"
-msgstr ""
+msgstr "使用特色图片"
 
 #: ../framework/metaboxes/portfolio-st.php:22
 msgid "Use feature image as the first image in the slider"
-msgstr ""
+msgstr "在幻灯片中使用特色图片最为第一个图片"
 
 #: ../framework/metaboxes/portfolio-st.php:45
 #: ../framework/metaboxes/posts-st.php:26
 #: ../framework/metaboxes/slider-meta.php:96
 msgid "Caption"
-msgstr ""
+msgstr "标题"
 
 #: ../framework/metaboxes/portfolio-st.php:58
 msgid "Video URL"
-msgstr ""
+msgstr "视频链接"
 
 #: ../framework/metaboxes/portfolio-st.php:60
 msgid "Only Youtube or vimeo links  eg. http://vimeo.com/59393483"
-msgstr ""
+msgstr "只能是 YouTube 或者 vimeo 链接 例如：http://vimeo.com/59393483"
 
 #: ../framework/metaboxes/posts-spec.php:6
 msgid "Posts Extra"
@@ -1805,376 +1807,373 @@ msgstr "文章额外信息"
 
 #: ../framework/metaboxes/posts-st.php:4
 msgid "This boxes show only if you select post format need extra options"
-msgstr ""
+msgstr "这个框只是当你选择发布格式需要额外的选项时显示"
 
 #: ../framework/metaboxes/posts-st.php:43
 msgid "Vimeo"
-msgstr "Vimeo"
+msgstr ""
 
 #: ../framework/metaboxes/posts-st.php:44
 msgid "Self Hosted HTML5"
-msgstr "Self Hosted HTML5"
+msgstr ""
 
 #: ../framework/metaboxes/posts-st.php:49
 msgid "Video ID"
-msgstr "Video ID"
+msgstr ""
 
 #: ../framework/metaboxes/posts-st.php:51
 msgid ""
 "the id is the bold text  eg. http://vimeo.com/<strong>59393483</strong>, "
 "https://www.youtube.com/watch?v=<strong>1LzRIhUAilk</strong>"
 msgstr ""
-" ID 为粗体文本，例如：http://vimeo.com/<strong>59393483</strong>, https://"
-"www.youtube.com/watch?v=<strong>1LzRIhUAilk</strong>"
 
 #: ../framework/metaboxes/posts-st.php:56
 msgid "Poster Image"
-msgstr "海报图片"
+msgstr ""
 
 #: ../framework/metaboxes/posts-st.php:64
 msgid "the image of the video, you see it before playing the video"
-msgstr "视频的图片，你会在"
+msgstr ""
 
 #: ../framework/metaboxes/posts-st.php:69
 msgid "M4v URL"
-msgstr "M4v URL"
+msgstr ""
 
 #: ../framework/metaboxes/posts-st.php:74
 msgid "WEBM URL"
-msgstr "WEBM URL"
+msgstr ""
 
 #: ../framework/metaboxes/posts-st.php:79
 msgid "OGV URL"
-msgstr "OGV URL"
+msgstr ""
 
 #: ../framework/metaboxes/posts-st.php:88
 msgid "MP3 URL"
-msgstr "MP3 URL"
+msgstr ""
 
 #: ../framework/metaboxes/posts-st.php:93
 msgid "OGG URL"
-msgstr "OGG URL"
+msgstr ""
 
 #: ../framework/metaboxes/slider-meta.php:74
 msgid "Title color"
-msgstr "标题颜色"
+msgstr ""
 
 #: ../framework/metaboxes/slider-meta.php:79
 msgid "Title background color"
-msgstr "标题背景色"
+msgstr ""
 
 #: ../framework/metaboxes/slider-meta.php:84
 #: ../framework/metaboxes/slider-meta.php:113
 msgid "Background opacity"
-msgstr "背景不透明"
+msgstr ""
 
 #: ../framework/metaboxes/slider-meta.php:89
 #: ../framework/metaboxes/slider-meta.php:118
 msgid "Close"
-msgstr "关闭"
+msgstr ""
 
 #: ../framework/metaboxes/slider-meta.php:103
 msgid "Caption color"
-msgstr "说明颜色"
+msgstr ""
 
 #: ../framework/metaboxes/slider-meta.php:108
 msgid "Caption background color"
-msgstr "说明背景色"
+msgstr ""
 
 #: ../framework/metaboxes/slider-spec.php:5
 #: ../framework/metaboxes/slider-spec.php:14
 msgid "Slides"
-msgstr "幻灯片"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:33
 msgid "Page Layout"
-msgstr "页面布局"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:43
 msgid ""
 "Select page layout, none mean you will use the default layout or what you "
 "set by theme options -> theme layout"
 msgstr ""
-"选择页面布局，「无」表示你讲使用默认布局或者设为「主题选项 -> 主题布局」"
 
 #: ../framework/metaboxes/theme.php:56
 msgid "Select Sidebar"
-msgstr "设置侧边栏"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:58
 msgid "Select custom sidebar"
-msgstr "选择自定义侧边栏"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:69
 msgid "Page Options"
-msgstr "页面选项"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:76
 msgid "Enable Page Comments"
-msgstr "启用页面评论"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:88
 msgid "Post Options"
-msgstr "文章选项"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:95
 msgid "Hide Feature Image"
-msgstr "隐藏特色图片"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:101
 msgid "Disable posts share"
-msgstr "禁用文章分享"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:136
 msgid "Gallery Settings"
-msgstr " Gallery 设置"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:143
 msgid "Animation"
-msgstr "动画"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:147
 msgid "Fade"
-msgstr "淡入淡出"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:148
 msgid "Slide"
-msgstr "幻灯片"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:154
 msgid "Slide Direction"
-msgstr "幻灯片方向"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:159
 msgid "Horizontal"
-msgstr "水平"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:160
 msgid "Vertical"
-msgstr "垂直"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:167
 msgid "Slider Speed"
-msgstr "Slider Speed"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:179
 msgid "Animation Speed"
-msgstr "动画速度"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:191
 msgid "Control Settings"
-msgstr "控制设置"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:196
 msgid "Animate the slideshows automatically"
-msgstr "幻灯片放映动画自动"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:197
 msgid " Adjust the height of the slideshow to the height of the current slide "
-msgstr "调整幻灯片放映高度为当前幻灯片高度"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:198
 msgid "Display the \"Previous/Next\" navigation"
-msgstr "显示 \"Previous/Next\" 导航"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:199
 msgid " Display the slideshow pagination "
-msgstr "显示幻灯片放映页码"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:200
 msgid " Enable keyboard navigation "
-msgstr "启用键盘导航"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:201
 msgid " Enable the touch swipe navigation on touch-screen devices "
-msgstr "启用触屏设备滑动触摸导航"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:202
 msgid " Enable the \"Play/Pause\" event "
-msgstr "启用 \"Play/Pause\" 事件"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:203
 msgid " Randomize the order of slides in slideshows "
-msgstr "随机播放幻灯片"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:204
 msgid " Loop the slideshow animations "
-msgstr "循环播放幻灯片动画"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:206
 msgid "  Pause the slideshow autoplay when hovering over a slide "
-msgstr "当鼠标悬浮在幻灯片上时暂停自动播放"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:221
 msgid "Slide Settings"
-msgstr "幻灯片设置"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:236
 msgid "Slide Url"
-msgstr "幻灯片 URL"
+msgstr ""
 
 #: ../framework/metaboxes/theme.php:238
 msgid "Insert Slide Url"
-msgstr "插入幻灯片 URL"
+msgstr ""
 
 #: ../framework/plugins.php:34
 msgid "Something went wrong with the plugin API."
-msgstr "这个插件 API 出现了错误"
+msgstr ""
 
 #: ../framework/plugins.php:47
 #, php-format
 msgid "All plugins installed and activated successfully. %s"
-msgstr "所有的插件已安装并成功激活。%s"
+msgstr ""
 
 #: ../framework/types/portfolio.php:14
 msgid "Portfolio items"
-msgstr "文件夹条目"
+msgstr ""
 
 #: ../framework/types/portfolio.php:15
 msgid "Portfolio Item"
-msgstr "文件夹条目"
+msgstr ""
 
 #: ../framework/types/portfolio.php:16 ../framework/types/slider.php:7
 msgid "Add New"
-msgstr "添加新的"
+msgstr ""
 
 #: ../framework/types/portfolio.php:17
 msgid "Add New Portfolio Item"
-msgstr "添加新的文件夹条目"
+msgstr ""
 
 #: ../framework/types/portfolio.php:18
 msgid "Edit Portfolio Item"
-msgstr "编辑文件夹条目"
+msgstr ""
 
 #: ../framework/types/portfolio.php:19
 msgid "New Portfolio Item"
-msgstr "新建文件夹条目"
+msgstr ""
 
 #: ../framework/types/portfolio.php:20
 msgid "View Portfolio Item"
-msgstr "浏览文件夹条目"
+msgstr ""
 
 #: ../framework/types/portfolio.php:21
 msgid "Search Portfolio Items"
-msgstr "搜索文件夹条目"
+msgstr ""
 
 #: ../framework/types/portfolio.php:22
 msgid "No portfolio item found"
-msgstr "未找到文件夹条目"
+msgstr ""
 
 #: ../framework/types/portfolio.php:23
 msgid "No portfolio items found in Trash"
-msgstr "No portfolio items found in Trash"
+msgstr ""
 
 #: ../framework/types/portfolio.php:25
 msgid "Portfolio"
-msgstr "文件夹"
+msgstr ""
 
 #: ../framework/types/portfolio.php:27
 msgid "portfolio"
-msgstr "文件夹"
+msgstr ""
 
 #: ../framework/types/portfolio.php:48
 msgid "Portfolio Categories"
-msgstr "文件夹分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:49
 msgid "Portfolio Category"
-msgstr "文件夹分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:50
 msgid "Search Categories"
-msgstr "搜索分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:51
 msgid "Popular Categories"
-msgstr "受欢迎的分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:52
 msgid "All Categories"
-msgstr "所有的分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:55
 msgid "Edit Portfolio Category"
-msgstr "编辑文件夹分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:56
 msgid "Update Portfolio Category"
-msgstr "更新文件夹分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:57
 msgid "Add New Portfolio Category"
-msgstr "添加新的文件夹分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:58
 msgid "New Portfolio Category Name"
-msgstr "新文件夹分类名称"
+msgstr ""
 
 #: ../framework/types/portfolio.php:59
 msgid "Separate Portfolio category with commas"
-msgstr "文件夹分类用逗号分开"
+msgstr ""
 
 #: ../framework/types/portfolio.php:60
 msgid "Add or remove portfolio category"
-msgstr "添加或移除文件夹分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:61
 msgid "Choose from the most used portfolio category"
-msgstr "选择最常用的文件夹分类"
+msgstr ""
 
 #: ../framework/types/portfolio.php:62 ../template-archive.php:86
 msgid "Categories"
-msgstr "分类"
+msgstr ""
 
 #: ../framework/types/slider.php:5
 msgid "Slider items"
-msgstr "滑块条目"
+msgstr ""
 
 #: ../framework/types/slider.php:6
 msgid "Slider Items"
-msgstr "滑块条目"
+msgstr ""
 
 #: ../framework/types/slider.php:8
 msgid "Add New Slider Item"
-msgstr "添加新的滑块条目"
+msgstr ""
 
 #: ../framework/types/slider.php:9
 msgid "Edit Slider Item"
-msgstr "编辑滑块条目"
+msgstr ""
 
 #: ../framework/types/slider.php:10
 msgid "New Slider Item"
-msgstr "New Slider Item"
+msgstr ""
 
 #: ../framework/types/slider.php:11
 msgid "View Slider Item"
-msgstr "View Slider Item"
+msgstr ""
 
 #: ../framework/types/slider.php:12
 msgid "Search Slider Items"
-msgstr "Search Slider Items"
+msgstr ""
 
 #: ../framework/types/slider.php:13
 msgid "No slider item found"
-msgstr "No slider item found"
+msgstr ""
 
 #: ../framework/types/slider.php:14
 msgid "No slider items found in Trash"
-msgstr "No slider items found in Trash"
+msgstr ""
 
 #: ../framework/widgets/ads120.php:13
 msgid "Widget display 120*140 Ads"
-msgstr "小工具 - 显示 120*140 广告"
+msgstr ""
 
 #: ../framework/widgets/ads120.php:14
 msgid "Momizat - Ads 120*140"
-msgstr "Momizat - Ads 120*140"
+msgstr ""
 
 #: ../framework/widgets/ads120.php:82 ../framework/widgets/ads120b.php:113
 #: ../framework/widgets/ads120x.php:82 ../framework/widgets/ads125.php:113
 #: ../framework/widgets/ads160.php:68 ../framework/widgets/ads250.php:70
 msgid "advertisement"
-msgstr "广告"
+msgstr ""
 
 #: ../framework/widgets/ads120.php:93 ../framework/widgets/ads120b.php:128
 #: ../framework/widgets/ads120x.php:93 ../framework/widgets/ads125.php:131
@@ -2189,12 +2188,12 @@ msgstr "广告"
 #: ../framework/widgets/user-info.php:100
 #: ../framework/widgets/video-widget.php:69
 msgid "Title:"
-msgstr "标题："
+msgstr ""
 
 #: ../framework/widgets/ads120.php:98 ../framework/widgets/ads120b.php:133
 #: ../framework/widgets/ads120x.php:98 ../framework/widgets/ads125.php:135
 msgid "First Ad"
-msgstr "第一个广告"
+msgstr ""
 
 #: ../framework/widgets/ads120.php:100 ../framework/widgets/ads120.php:116
 #: ../framework/widgets/ads120b.php:135 ../framework/widgets/ads120b.php:151
@@ -2204,13 +2203,13 @@ msgstr "第一个广告"
 #: ../framework/widgets/ads125.php:170 ../framework/widgets/ads125.php:186
 #: ../framework/widgets/ads160.php:83 ../framework/widgets/ads250.php:84
 msgid "image:"
-msgstr "图片："
+msgstr ""
 
 #: ../framework/widgets/ads120.php:105 ../framework/widgets/ads120b.php:140
 #: ../framework/widgets/ads120x.php:105 ../framework/widgets/ads125.php:142
 #: ../framework/widgets/ads160.php:88 ../framework/widgets/ads250.php:89
 msgid "Link :"
-msgstr "链接："
+msgstr ""
 
 #: ../framework/widgets/ads120.php:110 ../framework/widgets/ads120.php:126
 #: ../framework/widgets/ads120b.php:145 ../framework/widgets/ads120b.php:161
@@ -2220,45 +2219,45 @@ msgstr "链接："
 #: ../framework/widgets/ads125.php:180 ../framework/widgets/ads125.php:196
 #: ../framework/widgets/ads160.php:93 ../framework/widgets/ads250.php:94
 msgid "ad code :"
-msgstr "广告代码："
+msgstr ""
 
 #: ../framework/widgets/ads120.php:114 ../framework/widgets/ads120b.php:149
 #: ../framework/widgets/ads120x.php:114 ../framework/widgets/ads125.php:151
 msgid "Second Ad"
-msgstr "第二个广告"
+msgstr ""
 
 #: ../framework/widgets/ads120.php:121 ../framework/widgets/ads120b.php:156
 #: ../framework/widgets/ads120x.php:121 ../framework/widgets/ads125.php:158
 msgid "link2 :"
-msgstr "link2 :"
+msgstr ""
 
 #: ../framework/widgets/ads120b.php:13
 msgid "Widget display 120*90 Ads"
-msgstr "小工具 - 显示 120*90 广告"
+msgstr ""
 
 #: ../framework/widgets/ads120b.php:14
 msgid "Momizat - Ads 120*90"
-msgstr "Momizat - Ads 120*90"
+msgstr ""
 
 #: ../framework/widgets/ads120b.php:166 ../framework/widgets/ads125.php:168
 msgid "Third Ad"
-msgstr "第三个广告"
+msgstr ""
 
 #: ../framework/widgets/ads120b.php:173 ../framework/widgets/ads125.php:175
 msgid "link3 :"
-msgstr "link3 :"
+msgstr ""
 
 #: ../framework/widgets/ads120b.php:182 ../framework/widgets/ads125.php:184
 msgid "fourth Ad"
-msgstr "第四个广告"
+msgstr ""
 
 #: ../framework/widgets/ads120b.php:189 ../framework/widgets/ads125.php:191
 msgid "link4 :"
-msgstr "link4 :"
+msgstr ""
 
 #: ../framework/widgets/ads120x.php:13
 msgid "Widget display 120*600 Ads"
-msgstr "小工具 - 显示 120*600 广告"
+msgstr ""
 
 #: ../framework/widgets/ads120x.php:14
 msgid "Momizat - Ads 120*600"
@@ -2266,15 +2265,15 @@ msgstr ""
 
 #: ../framework/widgets/ads125.php:13
 msgid "Widget display 125*125 Ads"
-msgstr "小工具 - 显示 125*125 广告"
+msgstr ""
 
 #: ../framework/widgets/ads125.php:14
 msgid "Momizat - Ads 125*125"
-msgstr "Momizat - Ads 125*125"
+msgstr ""
 
 #: ../framework/widgets/ads160.php:13
 msgid "Widget display 160*600 Ads"
-msgstr "小工具 - 显示 160*160 广告"
+msgstr ""
 
 #: ../framework/widgets/ads160.php:14
 msgid "Momizat - Ads 160*600"
@@ -2282,329 +2281,327 @@ msgstr ""
 
 #: ../framework/widgets/ads250.php:13
 msgid "Widget display 250*250 Ads"
-msgstr "小工具 - 显示 250*250 广告"
+msgstr ""
 
 #: ../framework/widgets/ads250.php:14
 msgid "Momizat - Ads 250*250"
-msgstr "Momizat - Ads 250*250"
+msgstr ""
 
 #: ../framework/widgets/comments-widget.php:12
 msgid "Widget display Recent Comments with avatar"
-msgstr "小工具 - 显示最近的评论人头像"
+msgstr ""
 
 #: ../framework/widgets/comments-widget.php:15
 msgid "Momizat - Recent Comments"
-msgstr "Momizat - 最近的评论"
+msgstr ""
 
 #: ../framework/widgets/comments-widget.php:43
 #: ../framework/widgets/comments-widget.php:45
 #: ../framework/widgets/tabbed-widget.php:144
 #: ../framework/widgets/tabbed-widget.php:146
 msgid "on "
-msgstr "在"
+msgstr ""
 
 #: ../framework/widgets/comments-widget.php:78
 #: ../framework/widgets/tabbed-widget.php:198
 msgid "Comments"
-msgstr "评论"
+msgstr ""
 
 #: ../framework/widgets/comments-widget.php:84
 #: ../framework/widgets/social-counter.php:143
 msgid "title:"
-msgstr "标题："
+msgstr ""
 
 #: ../framework/widgets/comments-widget.php:89
 msgid "Number of comments"
-msgstr "评论数"
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:13
 msgid "Facebook Like Box"
-msgstr "Facebook Like Box"
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:15
 msgid "Momizat - Facebook Likebox"
-msgstr "Momizat - Facebook Likebox"
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:95
 msgid "Facebook Page URL:"
-msgstr "Facebook Page URL:"
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:101
 msgid "Width:"
-msgstr "宽："
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:106
 msgid "Height:"
-msgstr "高："
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:111
 msgid "Color Scheme"
-msgstr "配色方案"
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:120
 msgid "Background Color:"
-msgstr "背景色："
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:124
 msgid "Box border Color:"
-msgstr "盒子边框颜色："
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:130
 msgid "Show faces"
-msgstr "Show faces"
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:135
 msgid "Show stream"
-msgstr "显示流"
+msgstr ""
 
 #: ../framework/widgets/fb_likebox.php:140
 msgid "Show header"
-msgstr "显示头部"
+msgstr ""
 
 #: ../framework/widgets/flickr.php:13
 msgid "Widget display Flickr Photo"
-msgstr "小工具 - 显示 Flickr 照片"
+msgstr ""
 
 #: ../framework/widgets/flickr.php:14
 msgid "Momizat - Flickr"
-msgstr "Momizat - Flickr"
+msgstr ""
 
 #: ../framework/widgets/flickr.php:77
 msgid "Flickr ID:"
-msgstr "Flickr ID:"
+msgstr ""
 
 #: ../framework/widgets/flickr.php:82
 msgid "Number of Photos:"
-msgstr "照片数："
+msgstr ""
 
 #: ../framework/widgets/flickr.php:87
 #: ../framework/widgets/popular-item.php:176
 msgid "Type (user or group):"
-msgstr "类型（用户或组）"
+msgstr ""
 
 #: ../framework/widgets/flickr.php:95
 msgid "Display (random or latest):"
-msgstr "显示（随机或最新）"
+msgstr ""
 
 #: ../framework/widgets/language-switcher.php:13
 msgid "display languages switcher"
-msgstr "显示语言切换器"
+msgstr ""
 
 #: ../framework/widgets/language-switcher.php:16
 msgid "Momizat - Language Swticher"
-msgstr "Momizat - 语言切换器"
+msgstr ""
 
 #: ../framework/widgets/language-switcher.php:70
 msgid "Languages"
-msgstr "语言"
+msgstr ""
 
 #: ../framework/widgets/popular-item.php:13
 msgid "Widget display one popular media it can be (image, video) only"
-msgstr "小工具 - 显示一个受欢迎的媒体，只能是图片或视频"
+msgstr ""
 
 #: ../framework/widgets/popular-item.php:14
 msgid "Momizat - Popular Item"
-msgstr "Momizat - 受欢迎的条目"
+msgstr ""
 
 #: ../framework/widgets/popular-item.php:165
 msgid "Popular Video"
-msgstr "受欢迎的视频"
+msgstr ""
 
 #: ../framework/widgets/posts-widget.php:13
 #: ../framework/widgets/postsList-widget.php:13
 msgid "Widget display Posts order by : Popular, Random, Recent"
-msgstr "小工具 - 显示文章按：受欢迎的，随机的，最近的"
+msgstr ""
 
 #: ../framework/widgets/posts-widget.php:14
 msgid "Momizat - Posts"
-msgstr "Momizat - 文章"
+msgstr ""
 
 #: ../framework/widgets/posts-widget.php:85
 #: ../framework/widgets/postsList-widget.php:91
 msgid "Most Popular"
-msgstr "最受欢迎的"
+msgstr ""
 
 #: ../framework/widgets/posts-widget.php:99
 #: ../framework/widgets/postsList-widget.php:105
 msgid "orderby"
-msgstr "排序"
+msgstr ""
 
 #: ../framework/widgets/posts-widget.php:109
 #: ../framework/widgets/postsList-widget.php:115
 msgid "Number Of Posts:"
-msgstr "文章数量："
+msgstr ""
 
 #: ../framework/widgets/postsList-widget.php:14
 msgid "Momizat - Posts List"
-msgstr "Momizat - 文章列表"
+msgstr ""
 
 #: ../framework/widgets/social-counter.php:12
 msgid ""
 "Widget display a count of your rss subscribers, Twitter followers, facebook "
 "fans"
-msgstr "小工具 - 显示你的 RSS 订阅者，Twitter 关注者，Facebook 粉丝的数量"
+msgstr ""
 
 #: ../framework/widgets/social-counter.php:15
 msgid "Momizat - Social Counter"
-msgstr "Momizat - Social Counter"
+msgstr ""
 
 #: ../framework/widgets/social-counter.php:88
 msgid "Subscribers"
-msgstr "订阅者"
+msgstr ""
 
 #: ../framework/widgets/social-counter.php:97
 msgid "Followers"
-msgstr "关注者"
+msgstr ""
 
 #: ../framework/widgets/social-counter.php:106
 msgid "Fans"
-msgstr " 粉丝"
+msgstr ""
 
 #: ../framework/widgets/social-counter.php:148
 msgid "rss number (if not use feedburner, or want static number)"
-msgstr "rss number (if not use feedburner, or want static number)"
+msgstr ""
 
 #: ../framework/widgets/social-counter.php:153
 msgid "RSS Link (leave empty to use default rss link)"
-msgstr "RSS Link (留下空白显示默认的 RSS Link)"
+msgstr ""
 
 #: ../framework/widgets/social-counter.php:159
 msgid "Twitter Name"
-msgstr "Twitter 用户名"
+msgstr ""
 
 #: ../framework/widgets/social-counter.php:164
 msgid ""
 "facebook page ID (<a target=\"_blank\" href=\"http://hellboundbloggers."
 "com/2010/07/10/find-facebook-profile-and-page-id/\">more Info</a>)"
 msgstr ""
-"Facebook 页面 ID (<a target=\"_blank\" href=\"http://hellboundbloggers."
-"com/2010/07/10/find-facebook-profile-and-page-id/\"> 更多信息</a>)"
 
 #: ../framework/widgets/socials-icons.php:13
 msgid "Widget display social icons"
-msgstr "小工具 - 显示社交图标"
+msgstr ""
 
 #: ../framework/widgets/socials-icons.php:14
 msgid "Momizat - social icons"
-msgstr "Momizat - social icons"
+msgstr ""
 
 #: ../framework/widgets/socials-icons.php:127
 msgid "Follow US"
-msgstr "关注我们"
+msgstr ""
 
 #: ../framework/widgets/socials-icons.php:153
 msgid "google plus"
-msgstr "google plus"
+msgstr ""
 
 #: ../framework/widgets/socials-icons.php:163
 msgid "youtube"
-msgstr "youtube"
+msgstr ""
 
 #: ../framework/widgets/socials-icons.php:168
 msgid "skype"
-msgstr "skype"
+msgstr ""
 
 #: ../framework/widgets/socials-icons.php:173
 msgid "feedburner"
-msgstr "feedburner"
+msgstr ""
 
 #: ../framework/widgets/socials-icons.php:178
 msgid "flickr"
-msgstr "flickr"
+msgstr ""
 
 #: ../framework/widgets/socials-icons.php:183
 msgid "picasa"
-msgstr "picasa"
+msgstr ""
 
 #: ../framework/widgets/tabbed-widget.php:12
 msgid ""
 "A tabbed Widgets that display popular posts, recent posts, recent comments "
 "and tags"
-msgstr "一个标签小工具，显示受欢迎的文章，最近的文章，最近的评论和标签。"
+msgstr ""
 
 #: ../framework/widgets/tabbed-widget.php:15
 msgid "Momizat - Tabbed Widget"
-msgstr "Momizat - Tabbed Widget"
+msgstr ""
 
 #: ../framework/widgets/tabbed-widget.php:196
 msgid "Popular"
-msgstr "受欢迎的"
+msgstr ""
 
 #: ../framework/widgets/tabbed-widget.php:197
 msgid "Recent"
-msgstr "最近的"
+msgstr ""
 
 #: ../framework/widgets/tabbed-widget.php:204
 msgid "Tab1 Title:"
-msgstr "Tab1 Title:"
+msgstr ""
 
 #: ../framework/widgets/tabbed-widget.php:210
 msgid "tab2 Title:"
-msgstr "tab2 Title:"
+msgstr ""
 
 #: ../framework/widgets/tabbed-widget.php:215
 msgid "tab3 Title:"
-msgstr "tab3 Title:"
+msgstr ""
 
 #: ../framework/widgets/tabbed-widget.php:220
 msgid "tab4 Title:"
-msgstr "tab4 Title:"
+msgstr ""
 
 #: ../framework/widgets/twitter-widget.php:13
 msgid "Widget display Latest Tweets"
-msgstr "小工具 - 显示最新的 Tweets"
+msgstr ""
 
 #: ../framework/widgets/twitter-widget.php:16
 msgid "Momizat - Twitter"
-msgstr "Momizat - Twitter"
+msgstr ""
 
 #: ../framework/widgets/twitter-widget.php:42
 msgid "loading twitter feed..."
-msgstr "读取 Twitter feed..."
+msgstr ""
 
 #: ../framework/widgets/twitter-widget.php:84
 msgid "Twitter username:"
-msgstr "Twitter 用户名："
+msgstr ""
 
 #: ../framework/widgets/twitter-widget.php:89
 msgid "Number of tweets:"
-msgstr "Tweets 数量："
+msgstr ""
 
 #: ../framework/widgets/user-info.php:13
 msgid "Widget display User Information"
-msgstr "小工具 - 显示用户信息"
+msgstr ""
 
 #: ../framework/widgets/user-info.php:14
 msgid "Momizat - User Info"
-msgstr "Momizat - 用户信息"
+msgstr ""
 
 #: ../framework/widgets/user-info.php:59
 msgid "Follow me on : "
-msgstr "关注我在："
+msgstr ""
 
 #: ../framework/widgets/user-info.php:92
 msgid "About Me"
-msgstr "关于我"
+msgstr ""
 
 #: ../framework/widgets/user-info.php:105
 msgid "Select User"
-msgstr "选择用户"
+msgstr ""
 
 #: ../framework/widgets/video-widget.php:13
 msgid "Widget display viddeo support Youtube, vimeo, dailymotion"
-msgstr "显示视频小工具支持 Youtube, vimeo, dailymotion"
+msgstr ""
 
 #: ../framework/widgets/video-widget.php:16
 msgid "Momizat - Videos"
-msgstr "Momizat - Videos"
+msgstr ""
 
 #: ../framework/widgets/video-widget.php:74
 msgid "type"
-msgstr "类型"
+msgstr ""
 
 #: ../framework/widgets/video-widget.php:83
 msgid "Video ID:"
-msgstr "Video ID:"
+msgstr ""
 
 #: ../header.php:38
 msgid ""
@@ -2613,70 +2610,67 @@ msgid ""
 "com/chromeframe/?redirect=true\">activate Google Chrome Frame</a> to improve "
 "your experience."
 msgstr ""
-"你正在使用一款 <strong>过时的</strong> 浏览器。 请<a href=\"http://"
-"browsehappy.com/\">更新浏览器</a>或<a href=\"http://www.google.com/"
-"chromeframe/?redirect=true\">激活谷歌浏览器框架</a>来增强你的体验"
 
 #: ../header.php:177 ../searchform.php:3
 msgid "Search ..."
-msgstr "搜索..."
+msgstr ""
 
 #: ../posts-loop.php:2
 msgid "Search results for "
-msgstr "搜索结果"
+msgstr ""
 
 #: ../posts-loop.php:8
 msgid "Written by: \""
-msgstr "Written by: \""
+msgstr ""
 
 #: ../posts-loop.php:16
 msgid "Category: "
-msgstr "分类："
+msgstr ""
 
 #: ../posts-loop.php:19
 msgid "Tagged by: "
-msgstr "标签："
+msgstr ""
 
 #: ../posts-loop.php:24
 msgid "Archives for: "
-msgstr "归档："
+msgstr ""
 
 #: ../posts-loop.php:118
 msgid "No Comments"
-msgstr "没有评论"
+msgstr ""
 
 #: ../posts-loop.php:118
 msgid "1 Comment"
-msgstr "1 评论"
+msgstr ""
 
 #: ../posts-loop.php:118
 msgid "% Comments"
-msgstr "% 评论"
+msgstr ""
 
 #: ../posts-loop.php:121
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: ../posts-loop.php:121
 msgid "%"
-msgstr "%"
+msgstr ""
 
 #: ../posts-loop.php:123
 msgid "Views: "
-msgstr "浏览数："
+msgstr ""
 
 #: ../template-archive.php:62
 msgid "Last 30 Posts"
-msgstr "最近的30篇文章"
+msgstr ""
 
 #: ../template-archive.php:71
 msgid "Pages"
-msgstr "页面"
+msgstr ""
 
 #: ../template-archive.php:80
 msgid "Monthly Archives"
-msgstr "月份归档"
+msgstr ""
 
 #: ../template-archive.php:93
 msgid "Tag Cloud"
-msgstr "标签云"
+msgstr ""
