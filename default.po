@@ -1,0 +1,2698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Charisma Theme\n"
+"POT-Creation-Date: 2013-11-17 14:37+0200\n"
+"PO-Revision-Date: 2013-11-17 14:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: Momizat <admin@momizat.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/charisma/wp-content/themes/"
+"charisma\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/charisma-xml/wp-content/"
+"themes/charisma\n"
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/404.php:13
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:196
+msgid "Page Not Found"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:64
+msgid "Leave a Comment"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:65
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:66
+msgid "Cancel Reply"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:67
+msgid "Post Comment"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:68
+msgid "Comment..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:69
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:70
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:73
+msgid "Name (required)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:74
+msgid "Email (required)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/comments.php:75
+msgid "Website"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/content-page.php:62
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:129
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:115
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:345
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/feature-slider.php:166
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:92
+msgid "Read More &raquo;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/header.php:38
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> or <a href=\"http://www.google."
+"com/chromeframe/?redirect=true\">activate Google Chrome Frame</a> to improve "
+"your experience."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/header.php:177
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/searchform.php:3
+msgid "Search ..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:2
+msgid "Search results for "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:8
+msgid "Written by: \""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:16
+msgid "Category: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:19
+msgid "Tagged by: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:24
+msgid "Archives for: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:118
+msgid "No Comments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:118
+msgid "1 Comment"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:118
+msgid "% Comments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:121
+msgid "1"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:121
+msgid "%"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/posts-loop.php:123
+msgid "Views: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/template-archive.php:62
+msgid "Last 30 Posts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/template-archive.php:71
+msgid "Pages"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/template-archive.php:80
+msgid "Monthly Archives"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/template-archive.php:86
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:62
+msgid "Categories"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/template-archive.php:93
+msgid "Tag Cloud"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:155
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/plugins.php:31
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:156
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/plugins.php:32
+msgid "Install Plugins"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:157
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/plugins.php:33
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:169
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/plugins.php:45
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:171
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1840
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/plugins.php:46
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1293
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:6
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:40
+msgid "Type"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1950
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1950
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:178
+msgid "Main Menu"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:217
+msgid "Main Sidebar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:219
+msgid "Default sidebar."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:229
+msgid "Footer 1"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:239
+msgid "Footer 2"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:249
+msgid "Footer 3"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:259
+msgid "Footer 4"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:269
+msgid "Footer 5"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:279
+msgid "Footer 6"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:345
+msgid "No Categories"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/main.php:496
+msgid "Select Language :"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/plugins.php:34
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/plugins.php:47
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/classes/class.options_machine.php:552
+msgid "Last Backup : "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/front-end/options.php:24
+msgid "Theme Options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/front-end/options.php:38
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/front-end/options.php:61
+msgid "Save"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/front-end/options.php:62
+msgid "Options Reset"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:114
+msgid "General Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:120
+msgid "Theme Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:121
+msgid ""
+"Select theme Style default style has the sidebar outside content area, the "
+"other one has the sidebar inside the white content area"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:130
+msgid "Theme Layout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:131
+msgid "Select theme layout right sidebar or left sidebar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:142
+msgid "Date Format"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:144
+msgid ""
+"Change date format click <a href=\"http://codex.wordpress.org/"
+"Formatting_Date_and_Time\">here</a> to see hwo to change it"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:149
+msgid "Enable Responsive"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:151
+msgid "Enable or disable responsive"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:157
+msgid "Breadcrumb"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:159
+msgid "Enable or disable breadcrumb"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:164
+msgid "Scroll to top button"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:166
+msgid "Enable or disable Scroll to top button"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:171
+msgid "Portfolio Items Slug "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:173
+msgid ""
+"Customize the permastruct slug, in english the slug name in the permalink, "
+"default is \"Portfolio Items\""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:179
+msgid "favicon"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:180
+msgid "upload your favicon"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:186
+msgid "Apple touch favicon 57x57"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:192
+msgid "Apple touch favicon 72x72"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:198
+msgid "Apple touch favicon 114x114"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:207
+msgid "Google analytics"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:208
+msgid ""
+"google analytics or any Script, it will be add before closing of body tag"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:215
+msgid "Post settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:219
+msgid "post settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:221
+msgid ""
+"<h3>Post Settings</h3><p>this option for controling in the blog post it "
+"effect on all posts, also you will find all this options for each post when "
+"you edit it.</p>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:225
+msgid "Disable Post Formats Icons"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:231
+msgid "Disable Post Share"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:237
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:107
+msgid "Disable Next post and prev post links"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:243
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:113
+msgid "Disable author box"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:249
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:119
+msgid "Disable Related posts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:255
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:125
+msgid "Disable comments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:262
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:267
+msgid "Social Networks"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:269
+msgid ""
+"Control in the social icons, Paste the URL of your favorite social networks "
+"or leave empty to hide icons"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:272
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:403
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/twitter-widget.php:72
+msgid "Twitter"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:279
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:412
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:78
+msgid "Facebook"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:285
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:430
+msgid "Google+"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:291
+msgid "Linkedin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:298
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:448
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:42
+msgid "Youtube"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:304
+msgid "Skype Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:310
+msgid "Feedburner"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:316
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:439
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/flickr.php:63
+msgid "Flickr"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:322
+msgid "Picasa"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:328
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:423
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:201
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:188
+msgid "digg"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:334
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:193
+msgid "vimeo"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:340
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:455
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:217
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:198
+msgid "tumblr"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:346
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:204
+msgid "RSS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:351
+msgid "Custom RSS URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:356
+msgid "leave empty to use default rss link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:362
+msgid "Social Share"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:367
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:173
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:148
+msgid "facebook"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:375
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:177
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:143
+msgid "twitter"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:383
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:181
+msgid "google+"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:391
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:185
+msgid "pinterest"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:399
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:189
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:421
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:158
+msgid "linkedin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:407
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:193
+msgid "email"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:415
+msgid "stumble upon"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:431
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:205
+msgid "reddit"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:439
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:209
+msgid "evernote"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:447
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:213
+msgid "delicious"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:463
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:221
+msgid "friendfeed"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:471
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:225
+msgid "myspace"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:485
+msgid "Header"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:490
+msgid "The logo"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:492
+msgid "upload custom logo"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:497
+msgid "Responsive logo"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:499
+msgid ""
+"this logo used for responsive design if you use the default header style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:504
+msgid "Retina Logo"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:506
+msgid ""
+"retina logo must be your logo in double size if original logo is 150*70 "
+"retina logo must be 300*140"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:511
+msgid "Original logo width"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:513
+msgid "your original logo width which you upload under \"the logo\""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:518
+msgid "Original logo Height"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:520
+msgid "your original logo Height which you upload under \"the logo\""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:525
+msgid "Sticky Header"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:532
+msgid "Header Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:533
+msgid "Select header style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:538
+msgid "Default"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:539
+msgid "ALT Header style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:543
+msgid "Left Content"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:546
+msgid "the text on the left in default header style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:549
+msgid "header Height"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:551
+msgid "set the header height, just for ALT Header style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:560
+msgid "Feature Slider"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:565
+msgid "Disable Feature Slider"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:571
+msgid "Display"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:574
+msgid ""
+"Select feature slider source , note: if you select custom you must add the "
+"slider manually from the left side menu item \"Slider\" "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:577
+msgid "Latest Posts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:578
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:584
+msgid "Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:579
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:592
+msgid "Tag"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:580
+msgid "Custom Slider"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:596
+msgid "for multiple tags Separate with commas"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:599
+msgid "Number of Items"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:610
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1140
+msgid "Footer"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:616
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:41
+msgid "Layout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:617
+msgid "Select Footer layout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:639
+msgid "Hide Footer Widgets"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:646
+msgid "Hide copyrights Area"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:652
+msgid "copyrights"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:653
+msgid "footer copyrights text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:655
+msgid ""
+"2013 Powered By Wordpress, Charisma Theme By <a href=\"http://www.momizat."
+"com/\">Momizat Team</a>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:665
+msgid "General Colors"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:671
+msgid "general colors"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:672
+msgid ""
+"<h3>General Colors</h3><p>this panel control in the shortcodes and content "
+"in general like the borders, primary color, default boxes style etc...</p>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:676
+msgid "Color Schemes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:677
+msgid "Select Color Scheme from our predefined colors"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:690
+msgid "Text Selection Color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:692
+msgid ""
+"the background color of selected text, you can overwrite the default blue"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:697
+msgid "Primary Color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:699
+msgid ""
+"default color for posts boxes, feature slider, tabs, accordions, quotes.., "
+"shorly its the main color of most elements on the theme"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:704
+msgid "Main wrap"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:705
+msgid "<h3 style=\"text-align:center;\">Main Wrap</h3>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:709
+msgid "Main wrap background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:715
+msgid "Main wrap top dotted borders"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:721
+msgid "Main wrap bottom border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:727
+msgid "Pagination Background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:732
+msgid "Pagination Border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:738
+msgid "Pagination Number"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:744
+msgid "Current Pagination item background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:750
+msgid "Current Pagination item Number"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:757
+msgid "breadcrumb text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:763
+msgid "breadcrumb separator"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:769
+msgid "breadcrumb bottom border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:775
+msgid "Scroll to Top background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:782
+msgid "body"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:786
+msgid "body bg"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:792
+msgid "Typography"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:797
+msgid "Primary Font"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:798
+msgid ""
+"the default font is Museo Slab, this option will replace all Museo Slab to "
+"what you select from here"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:804
+msgid "Body Typography"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:805
+msgid "body text such as pargraphs, spans, em"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:812
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1169
+msgid "links color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:813
+msgid "this option for main links color which you insert it by the editor"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:819
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1175
+msgid "links color on mouse over"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:825
+msgid "Headings Font"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:826
+msgid "Select font for all theme headings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:833
+msgid "Headings Color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:834
+msgid "theme headings color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:877
+msgid "header"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:882
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:944
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:949
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1145
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1398
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1424
+msgid "Background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:888
+msgid "remove header top line"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:894
+msgid "header top line color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:900
+msgid "Navigation Typography"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:901
+msgid "navigation links typography"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:907
+msgid "Current Navigation item color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:913
+msgid "Current Navigation item background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:915
+msgid "this only effect on defautl header style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:920
+msgid "Navigation items border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:926
+msgid "Search box background color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:932
+msgid "Search box text color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:939
+msgid "Posts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:955
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1314
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1368
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1404
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1430
+msgid "Borders"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:962
+msgid "Post Type Background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:968
+msgid "Post Type icon color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:974
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:46
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:67
+msgid "Title"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:981
+msgid "Title bottm border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:987
+msgid "Text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:993
+msgid "Links"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:999
+msgid "Meta box background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1005
+msgid "Meta box text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1011
+msgid "Meta box icons"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1017
+msgid "single post"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1021
+msgid "Posts info Titles"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1023
+msgid ""
+"the color of post extra info titles like: related posts, comments, about the "
+"author"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1027
+msgid "Posts info Titles bottom border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1032
+msgid "Comments Background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1038
+msgid "Comments Borders"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1044
+msgid "Comments Text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1050
+msgid "Comments author background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1056
+msgid "Sidebar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1061
+msgid "Widgets Title"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1067
+msgid "Widgets Title border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1073
+msgid "Widgets Title second border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1075
+msgid "1px white border under the main border to give it nice depth"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1080
+msgid "Widgets text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1086
+msgid "Widgets Links"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1092
+msgid "Widgets Links on mouse over"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1098
+msgid "Widgets image frame background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1104
+msgid "Widgets image frame border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1111
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:199
+msgid "Tags"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1116
+msgid "Tags Background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1122
+msgid "Tags Border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1128
+msgid "Tags Inner Border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1134
+msgid "Tags text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1151
+msgid "widget titles color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1157
+msgid "widgets borders"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1163
+msgid "text color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1181
+msgid "form elements background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1187
+msgid "form elements border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1193
+msgid "form elements text color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1199
+msgid "images frame"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1201
+msgid "this is the color of widgets images frame like flickr"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1208
+msgid "Copyrights Area"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1209
+msgid "<h3 style=\"text-align:center;\">Copyrights Area</h3>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1214
+msgid "copyrights area background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1220
+msgid "copyrights area text color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1226
+msgid "copyrights area links"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1232
+msgid "copyrights area links on mouse over"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1238
+msgid "Social icons background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1244
+msgid "Social icons color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1251
+msgid "Tabs, accordions ..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1256
+msgid "Tabs"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1257
+msgid "<h3 style=\"text-align:center;\">Tabs</h3>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1261
+msgid "Tabs Titles Typography"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1267
+msgid "Tabs background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1273
+msgid "Tabs borders"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1279
+msgid "Content box and current tab background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1285
+msgid "Current tab text color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1291
+msgid "Content text color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1297
+msgid "Accordions"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1298
+msgid "<h3 style=\"text-align:center;\">Accordions</h3>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1302
+msgid "Accordions Titles Typography"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1308
+msgid "Title background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1320
+msgid "Accordion Handle color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1322
+msgid "plus or arrow, number color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1327
+msgid "Current Accordion background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1333
+msgid "Current Accordion text color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1339
+msgid "Content background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1345
+msgid "Content text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1351
+msgid "toggles"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1352
+msgid "<h3 style=\"text-align:center;\">Toggles</h3>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1356
+msgid "Title Typography"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1362
+msgid "background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1374
+msgid "Active toggle background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1380
+msgid "Active toggle title"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1386
+msgid "Active toggle content"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1393
+msgid "Testimonials"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1410
+msgid "content"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1419
+msgid "Form Elements"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1436
+msgid "placeholder/value"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1442
+msgid "Widgets Submit Button background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1448
+msgid "Widgets Submit Button text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1454
+msgid "Post Submit Button background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1460
+msgid "Post Submit Button border"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1465
+msgid "Posts Submit Button text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1478
+msgid "Custom CSS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1480
+msgid "inser Your Custom CSS herer"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1490
+msgid "Tablet Custom CSS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1492
+msgid ""
+"insert Your Custom CSS here, you will see this only on tablet with screen "
+"size bigger than 768px smaller than 960px"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1502
+msgid "Landscape Mobiles"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1504
+msgid ""
+"insert Your Custom CSS here, you will see this only on mobiles with screen "
+"size bigger than 480px smaller than 767px"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1509
+msgid "Portrait Mobiles"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/admin/functions/functions.options.php:1511
+msgid ""
+"insert Your Custom CSS here, you will see this only on mobiles with screen "
+"size bigger than 320px smaller than 480px"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/comments.php:11
+msgid "Pingback:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/comments.php:11
+msgid "(Edit)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/comments.php:34
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/comments.php:37
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:245
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:259
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:279
+msgid "Edit"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/comments.php:43
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/comments.php:47
+msgid "Reply"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:169
+msgid "Share It : "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:197
+msgid "StumbleUpon"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:228
+msgid "More"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:237
+msgid "&laquo; Previous"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:238
+msgid "Next &raquo;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:243
+msgid "About the author"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:272
+msgid "Related posts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:312
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:354
+msgid "There is no related posts."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:397
+msgid "Extra Information"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:407
+msgid "Insert twitter name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:416
+msgid "Insert facebook page URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:425
+msgid "Insert LinkedIn URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:434
+msgid "Inesrt google+ URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:443
+msgid "Inesrt flickr URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:452
+msgid "Inesrt Youtube URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:456
+msgid "Pintrest"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/functions.php:460
+msgid "Inesrt Pintrest URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:52
+msgid "All"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:241
+msgid "Client:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:247
+msgid "Date:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:254
+msgid "Categories:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:265
+msgid "Project URL:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:266
+msgid "View Project"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:273
+msgid ":"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/functions/portfolio.php:300
+msgid "Related Projects"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/sidebar_generator.php:165
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/sidebar_generator.php:187
+msgid "Custom Sidebars"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/sidebar_generator.php:190
+msgid "+ Add Sidebar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/sidebar_generator.php:195
+msgid "Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/sidebar_generator.php:196
+msgid "CSS class"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/sidebar_generator.php:197
+msgid "Remove"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/sidebar_generator.php:218
+msgid "No Sidebars defined"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:50
+msgid "Home"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:177
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:180
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:183
+msgid "Archives for "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:187
+msgid "Archives by: "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:192
+msgid "Search results for \""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:239
+msgid "Split"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:242
+msgid "Merge"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/apple-meta.php:10
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:41
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:30
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:11
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:52
+msgid "Remove <img src=\""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/apple-meta.php:13
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:33
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:14
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:55
+msgid "upload Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/apple-meta.php:25
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:126
+msgid "Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/apple-meta.php:28
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:129
+msgid "Link Target"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/apple-meta.php:31
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:132
+msgid "Open link in the same window"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/apple-meta.php:32
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:133
+msgid "Open link in new window"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/apple-meta.php:41
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:53
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:34
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:142
+msgid "Add Slide <img src=\""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:7
+msgid "Client"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:13
+msgid "Hide Date"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:15
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:24
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:19
+msgid "No"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:16
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:25
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:20
+msgid "Yes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:22
+msgid "Hide Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:31
+msgid "Project Url"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:35
+msgid "Custom Portfolio Details"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:52
+msgid "Content"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-meta.php:62
+msgid "Add Info <img src=\""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-spec.php:5
+msgid "Portfolio Details"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-spec.php:13
+msgid "Portfolio Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:8
+msgid "Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:9
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:16
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:18
+msgid "Slider"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:10
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/video-widget.php:60
+msgid "Video"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:12
+msgid "Select Portfolio Type \"image, slider, video\""
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:17
+msgid "Use Feature Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:22
+msgid "Use feature image as the first image in the slider"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:45
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:26
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:96
+msgid "Caption"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:58
+msgid "Video URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/portfolio-st.php:60
+msgid "Only Youtube or vimeo links  eg. http://vimeo.com/59393483"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-spec.php:6
+msgid "Posts Extra"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:4
+msgid "This boxes show only if you select post format need extra options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:43
+msgid "Vimeo"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:44
+msgid "Self Hosted HTML5"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:49
+msgid "Video ID"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:51
+msgid ""
+"the id is the bold text  eg. http://vimeo.com/<strong>59393483</strong>, "
+"https://www.youtube.com/watch?v=<strong>1LzRIhUAilk</strong>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:56
+msgid "Poster Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:64
+msgid "the image of the video, you see it before playing the video"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:69
+msgid "M4v URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:74
+msgid "WEBM URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:79
+msgid "OGV URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:88
+msgid "MP3 URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/posts-st.php:93
+msgid "OGG URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:74
+msgid "Title color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:79
+msgid "Title background color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:84
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:113
+msgid "Background opacity"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:89
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:118
+msgid "Close"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:103
+msgid "Caption color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-meta.php:108
+msgid "Caption background color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-spec.php:5
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/slider-spec.php:14
+msgid "Slides"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:33
+msgid "Page Layout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:43
+msgid ""
+"Select page layout, none mean you will use the default layout or what you "
+"set by theme options -> theme layout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:56
+msgid "Select Sidebar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:58
+msgid "Select custom sidebar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:69
+msgid "Page Options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:76
+msgid "Enable Page Comments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:88
+msgid "Post Options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:95
+msgid "Hide Feature Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:101
+msgid "Disable posts share"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:136
+msgid "Gallery Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:143
+msgid "Animation"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:147
+msgid "Fade"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:148
+msgid "Slide"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:154
+msgid "Slide Direction"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:159
+msgid "Horizontal"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:160
+msgid "Vertical"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:167
+msgid "Slider Speed"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:179
+msgid "Animation Speed"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:191
+msgid "Control Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:196
+msgid "Animate the slideshows automatically"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:197
+msgid " Adjust the height of the slideshow to the height of the current slide "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:198
+msgid "Display the \"Previous/Next\" navigation"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:199
+msgid " Display the slideshow pagination "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:200
+msgid " Enable keyboard navigation "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:201
+msgid " Enable the touch swipe navigation on touch-screen devices "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:202
+msgid " Enable the \"Play/Pause\" event "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:203
+msgid " Randomize the order of slides in slideshows "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:204
+msgid " Loop the slideshow animations "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:206
+msgid "  Pause the slideshow autoplay when hovering over a slide "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:221
+msgid "Slide Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:236
+msgid "Slide Url"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/theme.php:238
+msgid "Insert Slide Url"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/classes/meta-box.php:254
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/classes/meta-box.php:428
+msgid "+"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/classes/meta-box.php:450
+msgid "&#8211;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/post.php:68
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/metaboxes/inc/fields/select-advanced.php:71
+msgid "Select a value"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:14
+msgid "Portfolio items"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:15
+msgid "Portfolio Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:16
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:7
+msgid "Add New"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:17
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:18
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:19
+msgid "New Portfolio Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:20
+msgid "View Portfolio Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:21
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:22
+msgid "No portfolio item found"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:23
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:25
+msgid "Portfolio"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:27
+msgid "portfolio"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:48
+msgid "Portfolio Categories"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:49
+msgid "Portfolio Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:50
+msgid "Search Categories"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:51
+msgid "Popular Categories"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:52
+msgid "All Categories"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:55
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:56
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:57
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:58
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:59
+msgid "Separate Portfolio category with commas"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:60
+msgid "Add or remove portfolio category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/portfolio.php:61
+msgid "Choose from the most used portfolio category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:5
+msgid "Slider items"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:6
+msgid "Slider Items"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:8
+msgid "Add New Slider Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:9
+msgid "Edit Slider Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:10
+msgid "New Slider Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:11
+msgid "View Slider Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:12
+msgid "Search Slider Items"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:13
+msgid "No slider item found"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/types/slider.php:14
+msgid "No slider items found in Trash"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:13
+msgid "Widget display 120*140 Ads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:14
+msgid "Momizat - Ads 120*140"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:82
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:113
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:82
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:113
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads160.php:68
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads250.php:70
+msgid "advertisement"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:93
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:128
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:93
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:131
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads160.php:77
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads250.php:78
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:90
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/flickr.php:72
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/language-switcher.php:75
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/popular-item.php:171
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/posts-widget.php:94
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/postsList-widget.php:100
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:138
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/twitter-widget.php:79
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/user-info.php:100
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/video-widget.php:69
+msgid "Title:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:98
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:133
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:98
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:135
+msgid "First Ad"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:100
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:116
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:135
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:151
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:168
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:184
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:100
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:116
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:137
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:153
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:170
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:186
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads160.php:83
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads250.php:84
+msgid "image:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:105
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:140
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:105
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:142
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads160.php:88
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads250.php:89
+msgid "Link :"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:110
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:126
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:145
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:161
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:178
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:194
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:110
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:126
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:147
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:163
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:180
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:196
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads160.php:93
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads250.php:94
+msgid "ad code :"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:114
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:149
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:114
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:151
+msgid "Second Ad"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120.php:121
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:156
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:121
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:158
+msgid "link2 :"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:13
+msgid "Widget display 120*90 Ads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:14
+msgid "Momizat - Ads 120*90"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:166
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:168
+msgid "Third Ad"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:173
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:175
+msgid "link3 :"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:182
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:184
+msgid "fourth Ad"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120b.php:189
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:191
+msgid "link4 :"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:13
+msgid "Widget display 120*600 Ads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads120x.php:14
+msgid "Momizat - Ads 120*600"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:13
+msgid "Widget display 125*125 Ads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads125.php:14
+msgid "Momizat - Ads 125*125"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads160.php:13
+msgid "Widget display 160*600 Ads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads160.php:14
+msgid "Momizat - Ads 160*600"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads250.php:13
+msgid "Widget display 250*250 Ads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/ads250.php:14
+msgid "Momizat - Ads 250*250"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/comments-widget.php:12
+msgid "Widget display Recent Comments with avatar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/comments-widget.php:15
+msgid "Momizat - Recent Comments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/comments-widget.php:43
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/comments-widget.php:45
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:144
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:146
+msgid "on "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/comments-widget.php:78
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:198
+msgid "Comments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/comments-widget.php:84
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:143
+msgid "title:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/comments-widget.php:89
+msgid "Number of comments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:13
+msgid "Facebook Like Box"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:15
+msgid "Momizat - Facebook Likebox"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:95
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:101
+msgid "Width:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:106
+msgid "Height:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:111
+msgid "Color Scheme"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:120
+msgid "Background Color:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:124
+msgid "Box border Color:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:130
+msgid "Show faces"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:135
+msgid "Show stream"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/fb_likebox.php:140
+msgid "Show header"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/flickr.php:13
+msgid "Widget display Flickr Photo"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/flickr.php:14
+msgid "Momizat - Flickr"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/flickr.php:77
+msgid "Flickr ID:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/flickr.php:82
+msgid "Number of Photos:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/flickr.php:87
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/popular-item.php:176
+msgid "Type (user or group):"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/flickr.php:95
+msgid "Display (random or latest):"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/language-switcher.php:13
+msgid "display languages switcher"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/language-switcher.php:16
+msgid "Momizat - Language Swticher"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/language-switcher.php:70
+msgid "Languages"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/popular-item.php:13
+msgid "Widget display one popular media it can be (image, video) only"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/popular-item.php:14
+msgid "Momizat - Popular Item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/popular-item.php:165
+msgid "Popular Video"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/posts-widget.php:13
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/postsList-widget.php:13
+msgid "Widget display Posts order by : Popular, Random, Recent"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/posts-widget.php:14
+msgid "Momizat - Posts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/posts-widget.php:85
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/postsList-widget.php:91
+msgid "Most Popular"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/posts-widget.php:99
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/postsList-widget.php:105
+msgid "orderby"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/posts-widget.php:109
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/postsList-widget.php:115
+msgid "Number Of Posts:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/postsList-widget.php:14
+msgid "Momizat - Posts List"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:12
+msgid ""
+"Widget display a count of your rss subscribers, Twitter followers, facebook "
+"fans"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:15
+msgid "Momizat - Social Counter"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:88
+msgid "Subscribers"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:97
+msgid "Followers"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:106
+msgid "Fans"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:148
+msgid "rss number (if not use feedburner, or want static number)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:153
+msgid "RSS Link (leave empty to use default rss link)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:159
+msgid "Twitter Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/social-counter.php:164
+msgid ""
+"facebook page ID (<a target=\"_blank\" href=\"http://hellboundbloggers."
+"com/2010/07/10/find-facebook-profile-and-page-id/\">more Info</a>)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:13
+msgid "Widget display social icons"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:14
+msgid "Momizat - social icons"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:127
+msgid "Follow US"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:153
+msgid "google plus"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:163
+msgid "youtube"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:168
+msgid "skype"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:173
+msgid "feedburner"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:178
+msgid "flickr"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/socials-icons.php:183
+msgid "picasa"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:12
+msgid ""
+"A tabbed Widgets that display popular posts, recent posts, recent comments "
+"and tags"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:15
+msgid "Momizat - Tabbed Widget"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:196
+msgid "Popular"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:197
+msgid "Recent"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:204
+msgid "Tab1 Title:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:210
+msgid "tab2 Title:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:215
+msgid "tab3 Title:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/tabbed-widget.php:220
+msgid "tab4 Title:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/twitter-widget.php:13
+msgid "Widget display Latest Tweets"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/twitter-widget.php:16
+msgid "Momizat - Twitter"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/twitter-widget.php:42
+msgid "loading twitter feed..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/twitter-widget.php:84
+msgid "Twitter username:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/twitter-widget.php:89
+msgid "Number of tweets:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/user-info.php:13
+msgid "Widget display User Information"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/user-info.php:14
+msgid "Momizat - User Info"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/user-info.php:59
+msgid "Follow me on : "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/user-info.php:92
+msgid "About Me"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/user-info.php:105
+msgid "Select User"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/video-widget.php:13
+msgid "Widget display viddeo support Youtube, vimeo, dailymotion"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/video-widget.php:16
+msgid "Momizat - Videos"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/video-widget.php:74
+msgid "type"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/charisma-xml/wp-content/themes/charisma/framework/widgets/video-widget.php:83
+msgid "Video ID:"
+msgstr ""

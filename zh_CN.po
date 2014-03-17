@@ -1,0 +1,2674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Charisma Theme\n"
+"POT-Creation-Date: 2014-03-17 13:12+0800\n"
+"PO-Revision-Date: 2014-03-17 18:16+0800\n"
+"Last-Translator: Yin <yinxiaoyu888@gmail.com>\n"
+"Language-Team: CocoaStrom <yinxiaoyu888@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13 ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:196
+msgid "Page Not Found"
+msgstr "页面未找到"
+
+#: ../comments.php:42
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: ../comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; 旧的评论"
+
+#: ../comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "更新评论 &rarr; "
+
+#: ../comments.php:53
+msgid "Comments are closed."
+msgstr "评论是关闭的"
+
+#: ../comments.php:64
+msgid "Leave a Comment"
+msgstr "留言"
+
+#: ../comments.php:65
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "留言给 %s"
+
+#: ../comments.php:66
+msgid "Cancel Reply"
+msgstr "取消回复"
+
+#: ../comments.php:67
+msgid "Post Comment"
+msgstr "发布评论"
+
+#: ../comments.php:68
+msgid "Comment..."
+msgstr "评论..."
+
+#: ../comments.php:69
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你必须<a href=\"%s\">登录</a>来发表评论。"
+
+#: ../comments.php:70
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"登录为<a href=\"%1$s\">%2$s</a>。<a href=\"%3$s\" title=\"登出账号\">登出?</"
+"a>"
+
+#: ../comments.php:73
+msgid "Name (required)"
+msgstr "姓名（必填）"
+
+#: ../comments.php:74
+msgid "Email (required)"
+msgstr "邮箱（必填）"
+
+#: ../comments.php:75
+msgid "Website"
+msgstr "站点"
+
+#: ../content-page.php:62 ../framework/functions/portfolio.php:115
+#: ../framework/functions/portfolio.php:345 ../posts-loop.php:129
+msgid "Sorry, no posts matched your criteria."
+msgstr "对不起，未找到符合您搜索条件的文章"
+
+#: ../feature-slider.php:166 ../posts-loop.php:92
+msgid "Read More &raquo;"
+msgstr "继续阅读 &raquo;"
+
+#: ../framework/admin/classes/class.options_machine.php:552
+msgid "Last Backup : "
+msgstr "最新的备份 :"
+
+#: ../framework/admin/front-end/options.php:24
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: ../framework/admin/front-end/options.php:38
+#: ../framework/admin/front-end/options.php:61
+msgid "Save"
+msgstr "保存"
+
+#: ../framework/admin/front-end/options.php:62
+msgid "Options Reset"
+msgstr "选项重置"
+
+#: ../framework/admin/functions/functions.options.php:114
+msgid "General Settings"
+msgstr "基本设置"
+
+#: ../framework/admin/functions/functions.options.php:120
+msgid "Theme Style"
+msgstr "主题风格"
+
+#: ../framework/admin/functions/functions.options.php:121
+msgid ""
+"Select theme Style default style has the sidebar outside content area, the "
+"other one has the sidebar inside the white content area"
+msgstr ""
+"选择主题风格默认风格在内容区域外有拖动条，另一种风格在白色内容区域里有拖动条"
+
+#: ../framework/admin/functions/functions.options.php:130
+msgid "Theme Layout"
+msgstr "主题布局"
+
+#: ../framework/admin/functions/functions.options.php:131
+msgid "Select theme layout right sidebar or left sidebar"
+msgstr "选择主题布局侧边导航在左边或者右边"
+
+#: ../framework/admin/functions/functions.options.php:142
+msgid "Date Format"
+msgstr "日期格式"
+
+#: ../framework/admin/functions/functions.options.php:144
+msgid ""
+"Change date format click <a href=\"http://codex.wordpress.org/"
+"Formatting_Date_and_Time\">here</a> to see hwo to change it"
+msgstr ""
+"改变日期格式点击<a href=\"http://codex.wordpress.org/Formatting_Date_and_Time"
+"\">这里</a> 看如何改变"
+
+#: ../framework/admin/functions/functions.options.php:149
+msgid "Enable Responsive"
+msgstr "启用 响应式"
+
+#: ../framework/admin/functions/functions.options.php:151
+msgid "Enable or disable responsive"
+msgstr "启动或者禁用响应式"
+
+#: ../framework/admin/functions/functions.options.php:157
+msgid "Breadcrumb"
+msgstr "路径导航"
+
+#: ../framework/admin/functions/functions.options.php:159
+msgid "Enable or disable breadcrumb"
+msgstr "开启或者关闭路径导航"
+
+#: ../framework/admin/functions/functions.options.php:164
+msgid "Scroll to top button"
+msgstr "滚动顶部按钮"
+
+#: ../framework/admin/functions/functions.options.php:166
+msgid "Enable or disable Scroll to top button"
+msgstr "启用或者禁用滚动顶部按钮"
+
+#: ../framework/admin/functions/functions.options.php:171
+msgid "Portfolio Items Slug "
+msgstr "Portfolio Items Slug "
+
+#: ../framework/admin/functions/functions.options.php:173
+msgid ""
+"Customize the permastruct slug, in english the slug name in the permalink, "
+"default is \"Portfolio Items\""
+msgstr ""
+"Customize the permastruct slug, in english the slug name in the permalink, "
+"default is \"Portfolio Items\""
+
+#: ../framework/admin/functions/functions.options.php:179
+msgid "favicon"
+msgstr "网站图标"
+
+#: ../framework/admin/functions/functions.options.php:180
+msgid "upload your favicon"
+msgstr "上传网站图标"
+
+#: ../framework/admin/functions/functions.options.php:186
+msgid "Apple touch favicon 57x57"
+msgstr "苹果触摸图标 57x57"
+
+#: ../framework/admin/functions/functions.options.php:192
+msgid "Apple touch favicon 72x72"
+msgstr "苹果触摸图标 72x72"
+
+#: ../framework/admin/functions/functions.options.php:198
+msgid "Apple touch favicon 114x114"
+msgstr "苹果触摸图标 114x114"
+
+#: ../framework/admin/functions/functions.options.php:207
+msgid "Google analytics"
+msgstr "谷歌分析"
+
+#: ../framework/admin/functions/functions.options.php:208
+msgid ""
+"google analytics or any Script, it will be add before closing of body tag"
+msgstr "谷歌分析或者其它任何脚本，将在主标签结束后被添加"
+
+#: ../framework/admin/functions/functions.options.php:215
+msgid "Post settings"
+msgstr "文章设置"
+
+#: ../framework/admin/functions/functions.options.php:219
+msgid "post settings"
+msgstr "文章设置"
+
+#: ../framework/admin/functions/functions.options.php:221
+msgid ""
+"<h3>Post Settings</h3><p>this option for controling in the blog post it "
+"effect on all posts, also you will find all this options for each post when "
+"you edit it.</p>"
+msgstr ""
+"<h3>文章设置</h3><p>这个博客控制选项会影响所有的文章，而且在你编辑文章的时候"
+"都会看到这个选项。</p>"
+
+#: ../framework/admin/functions/functions.options.php:225
+msgid "Disable Post Formats Icons"
+msgstr "禁用文章格式 Icons"
+
+#: ../framework/admin/functions/functions.options.php:231
+msgid "Disable Post Share"
+msgstr "禁止文章分享"
+
+#: ../framework/admin/functions/functions.options.php:237
+#: ../framework/metaboxes/theme.php:107
+msgid "Disable Next post and prev post links"
+msgstr "关闭下一篇和上一篇文章链接"
+
+#: ../framework/admin/functions/functions.options.php:243
+#: ../framework/metaboxes/theme.php:113
+msgid "Disable author box"
+msgstr "禁用 author box"
+
+#: ../framework/admin/functions/functions.options.php:249
+#: ../framework/metaboxes/theme.php:119
+msgid "Disable Related posts"
+msgstr "禁用相关文章"
+
+#: ../framework/admin/functions/functions.options.php:255
+#: ../framework/metaboxes/theme.php:125
+msgid "Disable comments"
+msgstr "禁止评论"
+
+#: ../framework/admin/functions/functions.options.php:262
+#: ../framework/admin/functions/functions.options.php:267
+msgid "Social Networks"
+msgstr "社交网络"
+
+#: ../framework/admin/functions/functions.options.php:269
+msgid ""
+"Control in the social icons, Paste the URL of your favorite social networks "
+"or leave empty to hide icons"
+msgstr "社交图标管理，粘贴你最爱的社交网络URL或者保留一个空的隐藏图标"
+
+#: ../framework/admin/functions/functions.options.php:272
+#: ../framework/functions/functions.php:403
+#: ../framework/widgets/twitter-widget.php:72
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../framework/admin/functions/functions.options.php:279
+#: ../framework/functions/functions.php:412
+#: ../framework/widgets/fb_likebox.php:78
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../framework/admin/functions/functions.options.php:285
+#: ../framework/functions/functions.php:430
+msgid "Google+"
+msgstr "Google+"
+
+#: ../framework/admin/functions/functions.options.php:291
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: ../framework/admin/functions/functions.options.php:298
+#: ../framework/functions/functions.php:448
+#: ../framework/metaboxes/posts-st.php:42
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../framework/admin/functions/functions.options.php:304
+msgid "Skype Name"
+msgstr "Skype Name"
+
+#: ../framework/admin/functions/functions.options.php:310
+msgid "Feedburner"
+msgstr "Feedburner"
+
+#: ../framework/admin/functions/functions.options.php:316
+#: ../framework/functions/functions.php:439 ../framework/widgets/flickr.php:63
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../framework/admin/functions/functions.options.php:322
+msgid "Picasa"
+msgstr "Picasa"
+
+#: ../framework/admin/functions/functions.options.php:328
+#: ../framework/admin/functions/functions.options.php:423
+#: ../framework/functions/functions.php:201
+#: ../framework/widgets/socials-icons.php:188
+msgid "digg"
+msgstr "digg"
+
+#: ../framework/admin/functions/functions.options.php:334
+#: ../framework/widgets/socials-icons.php:193
+msgid "vimeo"
+msgstr "vimeo"
+
+#: ../framework/admin/functions/functions.options.php:340
+#: ../framework/admin/functions/functions.options.php:455
+#: ../framework/functions/functions.php:217
+#: ../framework/widgets/socials-icons.php:198
+msgid "tumblr"
+msgstr "tumblr"
+
+#: ../framework/admin/functions/functions.options.php:346
+#: ../framework/widgets/socials-icons.php:204
+msgid "RSS"
+msgstr "RSS"
+
+#: ../framework/admin/functions/functions.options.php:351
+msgid "Custom RSS URL"
+msgstr "自定义 RSS 链接"
+
+#: ../framework/admin/functions/functions.options.php:356
+msgid "leave empty to use default rss link"
+msgstr "保留空白使用默认RSS链接"
+
+#: ../framework/admin/functions/functions.options.php:362
+msgid "Social Share"
+msgstr "社交分享"
+
+#: ../framework/admin/functions/functions.options.php:367
+#: ../framework/functions/functions.php:173
+#: ../framework/widgets/socials-icons.php:148
+msgid "facebook"
+msgstr "facebook"
+
+#: ../framework/admin/functions/functions.options.php:375
+#: ../framework/functions/functions.php:177
+#: ../framework/widgets/socials-icons.php:143
+msgid "twitter"
+msgstr "twitter"
+
+#: ../framework/admin/functions/functions.options.php:383
+#: ../framework/functions/functions.php:181
+msgid "google+"
+msgstr "google+"
+
+#: ../framework/admin/functions/functions.options.php:391
+#: ../framework/functions/functions.php:185
+msgid "pinterest"
+msgstr "pinterest"
+
+#: ../framework/admin/functions/functions.options.php:399
+#: ../framework/functions/functions.php:189
+#: ../framework/functions/functions.php:421
+#: ../framework/widgets/socials-icons.php:158
+msgid "linkedin"
+msgstr "linkedin"
+
+#: ../framework/admin/functions/functions.options.php:407
+#: ../framework/functions/functions.php:193
+msgid "email"
+msgstr "电子邮箱"
+
+#: ../framework/admin/functions/functions.options.php:415
+msgid "stumble upon"
+msgstr "stumble upon"
+
+#: ../framework/admin/functions/functions.options.php:431
+#: ../framework/functions/functions.php:205
+msgid "reddit"
+msgstr "reddit"
+
+#: ../framework/admin/functions/functions.options.php:439
+#: ../framework/functions/functions.php:209
+msgid "evernote"
+msgstr "evernote"
+
+#: ../framework/admin/functions/functions.options.php:447
+#: ../framework/functions/functions.php:213
+msgid "delicious"
+msgstr "delicious"
+
+#: ../framework/admin/functions/functions.options.php:463
+#: ../framework/functions/functions.php:221
+msgid "friendfeed"
+msgstr "friendfeed"
+
+#: ../framework/admin/functions/functions.options.php:471
+#: ../framework/functions/functions.php:225
+msgid "myspace"
+msgstr "myspace"
+
+#: ../framework/admin/functions/functions.options.php:485
+msgid "Header"
+msgstr "页眉"
+
+#: ../framework/admin/functions/functions.options.php:490
+msgid "The logo"
+msgstr "The logo"
+
+#: ../framework/admin/functions/functions.options.php:492
+msgid "upload custom logo"
+msgstr "上传自定义图标"
+
+#: ../framework/admin/functions/functions.options.php:497
+msgid "Responsive logo"
+msgstr "响应标识"
+
+#: ../framework/admin/functions/functions.options.php:499
+msgid ""
+"this logo used for responsive design if you use the default header style"
+msgstr "这个图标用来响应设计如果你用的是默认的页眉样式"
+
+#: ../framework/admin/functions/functions.options.php:504
+msgid "Retina Logo"
+msgstr "视网膜 Logo"
+
+#: ../framework/admin/functions/functions.options.php:506
+msgid ""
+"retina logo must be your logo in double size if original logo is 150*70 "
+"retina logo must be 300*140"
+msgstr ""
+"视网膜 logo 一定要你 logo 的两倍像素大小，比如原始的 logo 是 150*70 那么视网"
+"膜 logo 必须是 300*140"
+
+#: ../framework/admin/functions/functions.options.php:511
+msgid "Original logo width"
+msgstr "源 logo 宽度 "
+
+#: ../framework/admin/functions/functions.options.php:513
+msgid "your original logo width which you upload under \"the logo\""
+msgstr "你上传在\"the logo\"的源 logo 宽度"
+
+#: ../framework/admin/functions/functions.options.php:518
+msgid "Original logo Height"
+msgstr "源 logo 高度"
+
+#: ../framework/admin/functions/functions.options.php:520
+msgid "your original logo Height which you upload under \"the logo\""
+msgstr "你上传在\"the logo\"的源 logo 高度"
+
+#: ../framework/admin/functions/functions.options.php:525
+msgid "Sticky Header"
+msgstr "黏性页眉"
+
+#: ../framework/admin/functions/functions.options.php:532
+msgid "Header Style"
+msgstr "页眉风格"
+
+#: ../framework/admin/functions/functions.options.php:533
+msgid "Select header style"
+msgstr "选择页眉风格"
+
+#: ../framework/admin/functions/functions.options.php:538
+msgid "Default"
+msgstr "默认"
+
+#: ../framework/admin/functions/functions.options.php:539
+msgid "ALT Header style"
+msgstr "ALT 页眉风格"
+
+#: ../framework/admin/functions/functions.options.php:543
+msgid "Left Content"
+msgstr "左对齐内容"
+
+#: ../framework/admin/functions/functions.options.php:546
+msgid "the text on the left in default header style"
+msgstr "在默认的页眉风格中文本是左对齐的"
+
+#: ../framework/admin/functions/functions.options.php:549
+msgid "header Height"
+msgstr "页眉高度"
+
+#: ../framework/admin/functions/functions.options.php:551
+msgid "set the header height, just for ALT Header style"
+msgstr "为ALT页眉风格设置标题高度"
+
+#: ../framework/admin/functions/functions.options.php:560
+msgid "Feature Slider"
+msgstr "滑块功能"
+
+#: ../framework/admin/functions/functions.options.php:565
+msgid "Disable Feature Slider"
+msgstr "禁用滑动功能"
+
+#: ../framework/admin/functions/functions.options.php:571
+msgid "Display"
+msgstr "显示"
+
+#: ../framework/admin/functions/functions.options.php:574
+msgid ""
+"Select feature slider source , note: if you select custom you must add the "
+"slider manually from the left side menu item \"Slider\" "
+msgstr ""
+"选择滑块功能源，注意：如果你选择了自定义你必须从左边的菜单项手动添加\"滑块\""
+
+#: ../framework/admin/functions/functions.options.php:577
+msgid "Latest Posts"
+msgstr "最新文章"
+
+#: ../framework/admin/functions/functions.options.php:578
+#: ../framework/admin/functions/functions.options.php:584
+msgid "Category"
+msgstr "目录"
+
+#: ../framework/admin/functions/functions.options.php:579
+#: ../framework/admin/functions/functions.options.php:592
+msgid "Tag"
+msgstr "标签"
+
+#: ../framework/admin/functions/functions.options.php:580
+msgid "Custom Slider"
+msgstr "自定义滑块"
+
+#: ../framework/admin/functions/functions.options.php:596
+msgid "for multiple tags Separate with commas"
+msgstr "多标签用逗号隔开"
+
+#: ../framework/admin/functions/functions.options.php:599
+msgid "Number of Items"
+msgstr "项目数量"
+
+#: ../framework/admin/functions/functions.options.php:610
+#: ../framework/admin/functions/functions.options.php:1140
+msgid "Footer"
+msgstr "页脚"
+
+#: ../framework/admin/functions/functions.options.php:616
+#: ../framework/metaboxes/theme.php:41
+msgid "Layout"
+msgstr "布局"
+
+#: ../framework/admin/functions/functions.options.php:617
+msgid "Select Footer layout"
+msgstr "选择页脚布局"
+
+#: ../framework/admin/functions/functions.options.php:639
+msgid "Hide Footer Widgets"
+msgstr "隐藏页脚小工具"
+
+#: ../framework/admin/functions/functions.options.php:646
+msgid "Hide copyrights Area"
+msgstr "隐藏版权版块"
+
+#: ../framework/admin/functions/functions.options.php:652
+msgid "copyrights"
+msgstr "版权"
+
+#: ../framework/admin/functions/functions.options.php:653
+msgid "footer copyrights text"
+msgstr "页脚版权文本"
+
+#: ../framework/admin/functions/functions.options.php:655
+msgid ""
+"2013 Powered By Wordpress, Charisma Theme By <a href=\"http://www.momizat."
+"com/\">Momizat Team</a>"
+msgstr ""
+"2013 Powered By Wordpress, Charisma Theme By <a href=\"http://www.momizat."
+"com/\">Momizat Team</a>"
+
+#: ../framework/admin/functions/functions.options.php:665
+msgid "General Colors"
+msgstr "通用颜色"
+
+#: ../framework/admin/functions/functions.options.php:671
+msgid "general colors"
+msgstr "通用颜色"
+
+#: ../framework/admin/functions/functions.options.php:672
+msgid ""
+"<h3>General Colors</h3><p>this panel control in the shortcodes and content "
+"in general like the borders, primary color, default boxes style etc...</p>"
+msgstr ""
+"<h3>颜色</h3><p>这个在简码的控制面板内容一般而言就是边框、主颜色、默认框样式"
+"等等</p>"
+
+#: ../framework/admin/functions/functions.options.php:676
+msgid "Color Schemes"
+msgstr "颜色方案"
+
+#: ../framework/admin/functions/functions.options.php:677
+msgid "Select Color Scheme from our predefined colors"
+msgstr "从预定义的颜色中选择颜色方案"
+
+#: ../framework/admin/functions/functions.options.php:690
+msgid "Text Selection Color"
+msgstr "文本选区颜色"
+
+#: ../framework/admin/functions/functions.options.php:692
+msgid ""
+"the background color of selected text, you can overwrite the default blue"
+msgstr "选中文本的背景颜色，你可以覆盖默认的蓝色"
+
+#: ../framework/admin/functions/functions.options.php:697
+msgid "Primary Color"
+msgstr "主颜色"
+
+#: ../framework/admin/functions/functions.options.php:699
+msgid ""
+"default color for posts boxes, feature slider, tabs, accordions, quotes.., "
+"shorly its the main color of most elements on the theme"
+msgstr ""
+"文章box、滑块功能、标签、折叠、引用等等的默认颜色简单的说就是这个主题中大部分"
+"元素的颜色"
+
+#: ../framework/admin/functions/functions.options.php:704
+msgid "Main wrap"
+msgstr "主 wrap"
+
+#: ../framework/admin/functions/functions.options.php:705
+msgid "<h3 style=\"text-align:center;\">Main Wrap</h3>"
+msgstr "<h3 style=\"text-align:center;\">主 wrap </h3>"
+
+#: ../framework/admin/functions/functions.options.php:709
+msgid "Main wrap background"
+msgstr "主 wrap 背景"
+
+#: ../framework/admin/functions/functions.options.php:715
+msgid "Main wrap top dotted borders"
+msgstr "主 wrap 顶部虚线"
+
+#: ../framework/admin/functions/functions.options.php:721
+msgid "Main wrap bottom border"
+msgstr "主 wrap 底部边界"
+
+#: ../framework/admin/functions/functions.options.php:727
+msgid "Pagination Background"
+msgstr "分页背景"
+
+#: ../framework/admin/functions/functions.options.php:732
+msgid "Pagination Border"
+msgstr "分页边界"
+
+#: ../framework/admin/functions/functions.options.php:738
+msgid "Pagination Number"
+msgstr "分页数"
+
+#: ../framework/admin/functions/functions.options.php:744
+msgid "Current Pagination item background"
+msgstr "当前分页项目背景 "
+
+#: ../framework/admin/functions/functions.options.php:750
+msgid "Current Pagination item Number"
+msgstr "当前分页项目数字"
+
+#: ../framework/admin/functions/functions.options.php:757
+msgid "breadcrumb text"
+msgstr "导航路径文本"
+
+#: ../framework/admin/functions/functions.options.php:763
+msgid "breadcrumb separator"
+msgstr "导航路径分隔符"
+
+#: ../framework/admin/functions/functions.options.php:769
+msgid "breadcrumb bottom border"
+msgstr "导航路径底部边框"
+
+#: ../framework/admin/functions/functions.options.php:775
+msgid "Scroll to Top background"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:782
+msgid "body"
+msgstr "主体"
+
+#: ../framework/admin/functions/functions.options.php:786
+msgid "body bg"
+msgstr "主体背景"
+
+#: ../framework/admin/functions/functions.options.php:792
+msgid "Typography"
+msgstr "排版"
+
+#: ../framework/admin/functions/functions.options.php:797
+msgid "Primary Font"
+msgstr "主要字体"
+
+#: ../framework/admin/functions/functions.options.php:798
+msgid ""
+"the default font is Museo Slab, this option will replace all Museo Slab to "
+"what you select from here"
+msgstr ""
+"默认字体为 Museo Slab，这个选项将用你选的字体替换所有的 Museo Slab 字体"
+
+#: ../framework/admin/functions/functions.options.php:804
+msgid "Body Typography"
+msgstr "主体排版"
+
+#: ../framework/admin/functions/functions.options.php:805
+msgid "body text such as pargraphs, spans, em"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:812
+#: ../framework/admin/functions/functions.options.php:1169
+msgid "links color"
+msgstr "链接颜色"
+
+#: ../framework/admin/functions/functions.options.php:813
+msgid "this option for main links color which you insert it by the editor"
+msgstr "这个选项针对你通过编辑器插入文章的主链接颜色"
+
+#: ../framework/admin/functions/functions.options.php:819
+#: ../framework/admin/functions/functions.options.php:1175
+msgid "links color on mouse over"
+msgstr "鼠标悬浮时链接颜色"
+
+#: ../framework/admin/functions/functions.options.php:825
+msgid "Headings Font"
+msgstr "标题字体"
+
+#: ../framework/admin/functions/functions.options.php:826
+msgid "Select font for all theme headings"
+msgstr "从主体标题选择字体"
+
+#: ../framework/admin/functions/functions.options.php:833
+msgid "Headings Color"
+msgstr "标题颜色"
+
+#: ../framework/admin/functions/functions.options.php:834
+msgid "theme headings color"
+msgstr "主体标题颜色"
+
+#: ../framework/admin/functions/functions.options.php:877
+msgid "header"
+msgstr "头部"
+
+#: ../framework/admin/functions/functions.options.php:882
+#: ../framework/admin/functions/functions.options.php:944
+#: ../framework/admin/functions/functions.options.php:949
+#: ../framework/admin/functions/functions.options.php:1145
+#: ../framework/admin/functions/functions.options.php:1398
+#: ../framework/admin/functions/functions.options.php:1424
+msgid "Background"
+msgstr "背景"
+
+#: ../framework/admin/functions/functions.options.php:888
+msgid "remove header top line"
+msgstr "移除头部顶线"
+
+#: ../framework/admin/functions/functions.options.php:894
+msgid "header top line color"
+msgstr "头部顶线颜色"
+
+#: ../framework/admin/functions/functions.options.php:900
+msgid "Navigation Typography"
+msgstr "导航排版"
+
+#: ../framework/admin/functions/functions.options.php:901
+msgid "navigation links typography"
+msgstr "导航链接排版"
+
+#: ../framework/admin/functions/functions.options.php:907
+msgid "Current Navigation item color"
+msgstr "当前导航项颜色"
+
+#: ../framework/admin/functions/functions.options.php:913
+msgid "Current Navigation item background"
+msgstr "当前导航项背景"
+
+#: ../framework/admin/functions/functions.options.php:915
+msgid "this only effect on defautl header style"
+msgstr "这只会影响默认头部样式"
+
+#: ../framework/admin/functions/functions.options.php:920
+msgid "Navigation items border"
+msgstr "导航项边框"
+
+#: ../framework/admin/functions/functions.options.php:926
+msgid "Search box background color"
+msgstr "搜索框背景色"
+
+#: ../framework/admin/functions/functions.options.php:932
+msgid "Search box text color"
+msgstr "搜索框文本颜色"
+
+#: ../framework/admin/functions/functions.options.php:939
+msgid "Posts"
+msgstr "文章"
+
+#: ../framework/admin/functions/functions.options.php:955
+#: ../framework/admin/functions/functions.options.php:1314
+#: ../framework/admin/functions/functions.options.php:1368
+#: ../framework/admin/functions/functions.options.php:1404
+#: ../framework/admin/functions/functions.options.php:1430
+msgid "Borders"
+msgstr "边框"
+
+#: ../framework/admin/functions/functions.options.php:962
+msgid "Post Type Background"
+msgstr "Post Type Background"
+
+#: ../framework/admin/functions/functions.options.php:968
+msgid "Post Type icon color"
+msgstr "Post Type icon color"
+
+#: ../framework/admin/functions/functions.options.php:974
+#: ../framework/metaboxes/portfolio-meta.php:46
+#: ../framework/metaboxes/slider-meta.php:67
+msgid "Title"
+msgstr "标题"
+
+#: ../framework/admin/functions/functions.options.php:981
+msgid "Title bottm border"
+msgstr "标题底部边框"
+
+#: ../framework/admin/functions/functions.options.php:987
+msgid "Text"
+msgstr "文本"
+
+#: ../framework/admin/functions/functions.options.php:993
+msgid "Links"
+msgstr "链接"
+
+#: ../framework/admin/functions/functions.options.php:999
+msgid "Meta box background"
+msgstr "元数据盒子背景"
+
+#: ../framework/admin/functions/functions.options.php:1005
+msgid "Meta box text"
+msgstr "元数据盒子文本"
+
+#: ../framework/admin/functions/functions.options.php:1011
+msgid "Meta box icons"
+msgstr "元数据盒子图标"
+
+#: ../framework/admin/functions/functions.options.php:1017
+msgid "single post"
+msgstr "单日志"
+
+#: ../framework/admin/functions/functions.options.php:1021
+msgid "Posts info Titles"
+msgstr "文章信息标题"
+
+#: ../framework/admin/functions/functions.options.php:1023
+msgid ""
+"the color of post extra info titles like: related posts, comments, about the "
+"author"
+msgstr "文章额外信息标题的颜色，例如：相关文章，评论数，关于作者"
+
+#: ../framework/admin/functions/functions.options.php:1027
+msgid "Posts info Titles bottom border"
+msgstr "文章信息标题底部边框"
+
+#: ../framework/admin/functions/functions.options.php:1032
+msgid "Comments Background"
+msgstr "评论背景"
+
+#: ../framework/admin/functions/functions.options.php:1038
+msgid "Comments Borders"
+msgstr "评论边框"
+
+#: ../framework/admin/functions/functions.options.php:1044
+msgid "Comments Text"
+msgstr "评论文本"
+
+#: ../framework/admin/functions/functions.options.php:1050
+msgid "Comments author background"
+msgstr "评论作者背景"
+
+#: ../framework/admin/functions/functions.options.php:1056
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: ../framework/admin/functions/functions.options.php:1061
+msgid "Widgets Title"
+msgstr "插件标题"
+
+#: ../framework/admin/functions/functions.options.php:1067
+msgid "Widgets Title border"
+msgstr "插件标题边框"
+
+#: ../framework/admin/functions/functions.options.php:1073
+msgid "Widgets Title second border"
+msgstr "插件标题二号边框"
+
+#: ../framework/admin/functions/functions.options.php:1075
+msgid "1px white border under the main border to give it nice depth"
+msgstr "在主边框下给它预留1px 深的的白色边框会很好看"
+
+#: ../framework/admin/functions/functions.options.php:1080
+msgid "Widgets text"
+msgstr "插件文本"
+
+#: ../framework/admin/functions/functions.options.php:1086
+msgid "Widgets Links"
+msgstr "插件链接"
+
+#: ../framework/admin/functions/functions.options.php:1092
+msgid "Widgets Links on mouse over"
+msgstr "鼠标悬浮在插件链接上"
+
+#: ../framework/admin/functions/functions.options.php:1098
+msgid "Widgets image frame background"
+msgstr "Widgets image frame background"
+
+#: ../framework/admin/functions/functions.options.php:1104
+msgid "Widgets image frame border"
+msgstr "Widgets image frame border"
+
+#: ../framework/admin/functions/functions.options.php:1111
+#: ../framework/widgets/tabbed-widget.php:199
+msgid "Tags"
+msgstr "标签"
+
+#: ../framework/admin/functions/functions.options.php:1116
+msgid "Tags Background"
+msgstr "标签背景"
+
+#: ../framework/admin/functions/functions.options.php:1122
+msgid "Tags Border"
+msgstr "标签边框"
+
+#: ../framework/admin/functions/functions.options.php:1128
+msgid "Tags Inner Border"
+msgstr "标签内联边框"
+
+#: ../framework/admin/functions/functions.options.php:1134
+msgid "Tags text"
+msgstr "标签文本"
+
+#: ../framework/admin/functions/functions.options.php:1151
+msgid "widget titles color"
+msgstr "插件标题颜色"
+
+#: ../framework/admin/functions/functions.options.php:1157
+msgid "widgets borders"
+msgstr "插件边框"
+
+#: ../framework/admin/functions/functions.options.php:1163
+msgid "text color"
+msgstr "文本颜色"
+
+#: ../framework/admin/functions/functions.options.php:1181
+msgid "form elements background"
+msgstr "form elements background"
+
+#: ../framework/admin/functions/functions.options.php:1187
+msgid "form elements border"
+msgstr "form elements border"
+
+#: ../framework/admin/functions/functions.options.php:1193
+msgid "form elements text color"
+msgstr "form elements text color"
+
+#: ../framework/admin/functions/functions.options.php:1199
+msgid "images frame"
+msgstr "相框"
+
+#: ../framework/admin/functions/functions.options.php:1201
+msgid "this is the color of widgets images frame like flickr"
+msgstr "这是个类似于 Flickr 的相框插件颜色"
+
+#: ../framework/admin/functions/functions.options.php:1208
+msgid "Copyrights Area"
+msgstr "版权申明区"
+
+#: ../framework/admin/functions/functions.options.php:1209
+msgid "<h3 style=\"text-align:center;\">Copyrights Area</h3>"
+msgstr "<h3 style=\"text-align:center;\">版权申明区</h3>"
+
+#: ../framework/admin/functions/functions.options.php:1214
+msgid "copyrights area background"
+msgstr "版权申明区背景"
+
+#: ../framework/admin/functions/functions.options.php:1220
+msgid "copyrights area text color"
+msgstr "版权申明区文本色"
+
+#: ../framework/admin/functions/functions.options.php:1226
+msgid "copyrights area links"
+msgstr "版权申明区链接"
+
+#: ../framework/admin/functions/functions.options.php:1232
+msgid "copyrights area links on mouse over"
+msgstr "版权申明区链接悬浮时"
+
+#: ../framework/admin/functions/functions.options.php:1238
+msgid "Social icons background"
+msgstr "社交图标背景"
+
+#: ../framework/admin/functions/functions.options.php:1244
+msgid "Social icons color"
+msgstr "社交图标颜色"
+
+#: ../framework/admin/functions/functions.options.php:1251
+msgid "Tabs, accordions ..."
+msgstr "Tabs, accordions ..."
+
+#: ../framework/admin/functions/functions.options.php:1256
+msgid "Tabs"
+msgstr "选项卡"
+
+#: ../framework/admin/functions/functions.options.php:1257
+msgid "<h3 style=\"text-align:center;\">Tabs</h3>"
+msgstr "<h3 style=\"text-align:center;\">选项卡</h3>"
+
+#: ../framework/admin/functions/functions.options.php:1261
+msgid "Tabs Titles Typography"
+msgstr "选项卡标题排版"
+
+#: ../framework/admin/functions/functions.options.php:1267
+msgid "Tabs background"
+msgstr "选项卡背景"
+
+#: ../framework/admin/functions/functions.options.php:1273
+msgid "Tabs borders"
+msgstr "选项卡边框"
+
+#: ../framework/admin/functions/functions.options.php:1279
+msgid "Content box and current tab background"
+msgstr "Content box and current tab background"
+
+#: ../framework/admin/functions/functions.options.php:1285
+msgid "Current tab text color"
+msgstr "Current tab text color"
+
+#: ../framework/admin/functions/functions.options.php:1291
+msgid "Content text color"
+msgstr "内容文本颜色"
+
+#: ../framework/admin/functions/functions.options.php:1297
+msgid "Accordions"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1298
+msgid "<h3 style=\"text-align:center;\">Accordions</h3>"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1302
+msgid "Accordions Titles Typography"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1308
+msgid "Title background"
+msgstr "标题背景"
+
+#: ../framework/admin/functions/functions.options.php:1320
+msgid "Accordion Handle color"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1322
+msgid "plus or arrow, number color"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1327
+msgid "Current Accordion background"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1333
+msgid "Current Accordion text color"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1339
+msgid "Content background"
+msgstr "内容背景"
+
+#: ../framework/admin/functions/functions.options.php:1345
+msgid "Content text"
+msgstr "内容文本"
+
+#: ../framework/admin/functions/functions.options.php:1351
+msgid "toggles"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1352
+msgid "<h3 style=\"text-align:center;\">Toggles</h3>"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1356
+msgid "Title Typography"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1362
+msgid "background"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1374
+msgid "Active toggle background"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1380
+msgid "Active toggle title"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1386
+msgid "Active toggle content"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1393
+msgid "Testimonials"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1410
+msgid "content"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1419
+msgid "Form Elements"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1436
+msgid "placeholder/value"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1442
+msgid "Widgets Submit Button background"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1448
+msgid "Widgets Submit Button text"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1454
+msgid "Post Submit Button background"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1460
+msgid "Post Submit Button border"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1465
+msgid "Posts Submit Button text"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1478
+msgid "Custom CSS"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1480
+msgid "inser Your Custom CSS herer"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1490
+msgid "Tablet Custom CSS"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1492
+msgid ""
+"insert Your Custom CSS here, you will see this only on tablet with screen "
+"size bigger than 768px smaller than 960px"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1502
+msgid "Landscape Mobiles"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1504
+msgid ""
+"insert Your Custom CSS here, you will see this only on mobiles with screen "
+"size bigger than 480px smaller than 767px"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1509
+msgid "Portrait Mobiles"
+msgstr ""
+
+#: ../framework/admin/functions/functions.options.php:1511
+msgid ""
+"insert Your Custom CSS here, you will see this only on mobiles with screen "
+"size bigger than 320px smaller than 480px"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:155
+#: ../framework/plugins.php:31
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:156
+#: ../framework/plugins.php:32
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:157
+#: ../framework/plugins.php:33
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:169
+#: ../framework/plugins.php:45
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:171
+#: ../framework/class-tgm-plugin-activation.php:1840
+#: ../framework/plugins.php:46
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "必需的"
+
+#: ../framework/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "建议的"
+
+#: ../framework/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "未安装"
+
+#: ../framework/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: ../framework/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1293
+#: ../framework/metaboxes/portfolio-st.php:6
+#: ../framework/metaboxes/posts-st.php:40
+msgid "Type"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#: ../framework/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1950
+#: ../framework/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/functions/comments.php:11
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/functions/comments.php:11
+msgid "(Edit)"
+msgstr ""
+
+#: ../framework/functions/comments.php:34
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核"
+
+#: ../framework/functions/comments.php:37
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:245
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:259
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:279
+msgid "Edit"
+msgstr "编辑"
+
+#. translators: 1: date, 2: time
+#: ../framework/functions/comments.php:43
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/functions/comments.php:47
+msgid "Reply"
+msgstr "回复"
+
+#: ../framework/functions/functions.php:169
+msgid "Share It : "
+msgstr "分享"
+
+#: ../framework/functions/functions.php:197
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../framework/functions/functions.php:228
+msgid "More"
+msgstr ""
+
+#: ../framework/functions/functions.php:237
+msgid "&laquo; Previous"
+msgstr "&laquo; 上一篇"
+
+#: ../framework/functions/functions.php:238
+msgid "Next &raquo;"
+msgstr "下一篇 &raquo;"
+
+#: ../framework/functions/functions.php:243
+msgid "About the author"
+msgstr "关于作者"
+
+#: ../framework/functions/functions.php:272
+msgid "Related posts"
+msgstr "相关文章"
+
+#: ../framework/functions/functions.php:312
+#: ../framework/functions/functions.php:354
+msgid "There is no related posts."
+msgstr "没有相关文章"
+
+#: ../framework/functions/functions.php:397
+msgid "Extra Information"
+msgstr "额外信息"
+
+#: ../framework/functions/functions.php:407
+msgid "Insert twitter name"
+msgstr "插入 Twitter 用户名"
+
+#: ../framework/functions/functions.php:416
+msgid "Insert facebook page URL"
+msgstr ""
+
+#: ../framework/functions/functions.php:425
+msgid "Insert LinkedIn URL"
+msgstr ""
+
+#: ../framework/functions/functions.php:434
+msgid "Inesrt google+ URL"
+msgstr ""
+
+#: ../framework/functions/functions.php:443
+msgid "Inesrt flickr URL"
+msgstr ""
+
+#: ../framework/functions/functions.php:452
+msgid "Inesrt Youtube URL"
+msgstr ""
+
+#: ../framework/functions/functions.php:456
+msgid "Pintrest"
+msgstr ""
+
+#: ../framework/functions/functions.php:460
+msgid "Inesrt Pintrest URL"
+msgstr ""
+
+#: ../framework/functions/portfolio.php:52
+msgid "All"
+msgstr "所有"
+
+#: ../framework/functions/portfolio.php:241
+msgid "Client:"
+msgstr ""
+
+#: ../framework/functions/portfolio.php:247
+msgid "Date:"
+msgstr ""
+
+#: ../framework/functions/portfolio.php:254
+msgid "Categories:"
+msgstr ""
+
+#: ../framework/functions/portfolio.php:265
+msgid "Project URL:"
+msgstr ""
+
+#: ../framework/functions/portfolio.php:266
+msgid "View Project"
+msgstr ""
+
+#: ../framework/functions/portfolio.php:273
+msgid ":"
+msgstr ""
+
+#: ../framework/functions/portfolio.php:300
+msgid "Related Projects"
+msgstr ""
+
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:50
+msgid "Home"
+msgstr "主页"
+
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:177
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:180
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:183
+msgid "Archives for "
+msgstr "归档为"
+
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:187
+msgid "Archives by: "
+msgstr "归档为"
+
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:192
+msgid "Search results for \""
+msgstr ""
+
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:239
+msgid "Split"
+msgstr ""
+
+#: ../framework/inc/breadcrumbs-plus/breadcrumbs-plus.php:242
+msgid "Merge"
+msgstr ""
+
+#: ../framework/inc/sidebar_generator.php:165
+#: ../framework/inc/sidebar_generator.php:187
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../framework/inc/sidebar_generator.php:190
+msgid "+ Add Sidebar"
+msgstr ""
+
+#: ../framework/inc/sidebar_generator.php:195
+msgid "Name"
+msgstr ""
+
+#: ../framework/inc/sidebar_generator.php:196
+msgid "CSS class"
+msgstr ""
+
+#: ../framework/inc/sidebar_generator.php:197
+msgid "Remove"
+msgstr "移除"
+
+#: ../framework/inc/sidebar_generator.php:218
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../framework/main.php:178
+msgid "Main Menu"
+msgstr "主菜单"
+
+#: ../framework/main.php:217
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../framework/main.php:219
+msgid "Default sidebar."
+msgstr ""
+
+#: ../framework/main.php:229
+msgid "Footer 1"
+msgstr ""
+
+#: ../framework/main.php:239
+msgid "Footer 2"
+msgstr ""
+
+#: ../framework/main.php:249
+msgid "Footer 3"
+msgstr ""
+
+#: ../framework/main.php:259
+msgid "Footer 4"
+msgstr ""
+
+#: ../framework/main.php:269
+msgid "Footer 5"
+msgstr ""
+
+#: ../framework/main.php:279
+msgid "Footer 6"
+msgstr ""
+
+#: ../framework/main.php:345
+msgid "No Categories"
+msgstr ""
+
+#: ../framework/main.php:496
+msgid "Select Language :"
+msgstr ""
+
+#: ../framework/metaboxes/apple-meta.php:10
+#: ../framework/metaboxes/portfolio-meta.php:41
+#: ../framework/metaboxes/portfolio-st.php:30
+#: ../framework/metaboxes/posts-st.php:11
+#: ../framework/metaboxes/slider-meta.php:52
+msgid "Remove <img src=\""
+msgstr ""
+
+#: ../framework/metaboxes/apple-meta.php:13
+#: ../framework/metaboxes/portfolio-st.php:33
+#: ../framework/metaboxes/posts-st.php:14
+#: ../framework/metaboxes/slider-meta.php:55
+msgid "upload Image"
+msgstr ""
+
+#: ../framework/metaboxes/apple-meta.php:25
+#: ../framework/metaboxes/slider-meta.php:126
+msgid "Link"
+msgstr ""
+
+#: ../framework/metaboxes/apple-meta.php:28
+#: ../framework/metaboxes/slider-meta.php:129
+msgid "Link Target"
+msgstr ""
+
+#: ../framework/metaboxes/apple-meta.php:31
+#: ../framework/metaboxes/slider-meta.php:132
+msgid "Open link in the same window"
+msgstr ""
+
+#: ../framework/metaboxes/apple-meta.php:32
+#: ../framework/metaboxes/slider-meta.php:133
+msgid "Open link in new window"
+msgstr ""
+
+#: ../framework/metaboxes/apple-meta.php:41
+#: ../framework/metaboxes/portfolio-st.php:53
+#: ../framework/metaboxes/posts-st.php:34
+#: ../framework/metaboxes/slider-meta.php:142
+msgid "Add Slide <img src=\""
+msgstr ""
+
+#: ../framework/metaboxes/inc/classes/meta-box.php:254
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../framework/metaboxes/inc/classes/meta-box.php:428
+msgid "+"
+msgstr ""
+
+#: ../framework/metaboxes/inc/classes/meta-box.php:450
+msgid "&#8211;"
+msgstr ""
+
+#: ../framework/metaboxes/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: ../framework/metaboxes/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr "选择文件"
+
+#: ../framework/metaboxes/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "你只能上传最大为 %d 的文件"
+
+#: ../framework/metaboxes/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "你最多只能上传 %d 个的文件"
+
+#: ../framework/metaboxes/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr "错误：不能删除文件"
+
+#: ../framework/metaboxes/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr "选择图片"
+
+#: ../framework/metaboxes/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: ../framework/metaboxes/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../framework/metaboxes/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: ../framework/metaboxes/inc/fields/post.php:68
+#: ../framework/metaboxes/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../framework/metaboxes/inc/fields/select-advanced.php:71
+msgid "Select a value"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-meta.php:7
+msgid "Client"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-meta.php:13
+msgid "Hide Date"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-meta.php:15
+#: ../framework/metaboxes/portfolio-meta.php:24
+#: ../framework/metaboxes/portfolio-st.php:19
+msgid "No"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-meta.php:16
+#: ../framework/metaboxes/portfolio-meta.php:25
+#: ../framework/metaboxes/portfolio-st.php:20
+msgid "Yes"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-meta.php:22
+msgid "Hide Category"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-meta.php:31
+msgid "Project Url"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-meta.php:35
+msgid "Custom Portfolio Details"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-meta.php:52
+msgid "Content"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-meta.php:62
+msgid "Add Info <img src=\""
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-spec.php:5
+msgid "Portfolio Details"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-spec.php:13
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-st.php:8
+msgid "Image"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-st.php:9 ../framework/types/slider.php:16
+#: ../framework/types/slider.php:18
+msgid "Slider"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-st.php:10
+#: ../framework/widgets/video-widget.php:60
+msgid "Video"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-st.php:12
+msgid "Select Portfolio Type \"image, slider, video\""
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-st.php:17
+msgid "Use Feature Image"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-st.php:22
+msgid "Use feature image as the first image in the slider"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-st.php:45
+#: ../framework/metaboxes/posts-st.php:26
+#: ../framework/metaboxes/slider-meta.php:96
+msgid "Caption"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-st.php:58
+msgid "Video URL"
+msgstr ""
+
+#: ../framework/metaboxes/portfolio-st.php:60
+msgid "Only Youtube or vimeo links  eg. http://vimeo.com/59393483"
+msgstr ""
+
+#: ../framework/metaboxes/posts-spec.php:6
+msgid "Posts Extra"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:4
+msgid "This boxes show only if you select post format need extra options"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:43
+msgid "Vimeo"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:44
+msgid "Self Hosted HTML5"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:49
+msgid "Video ID"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:51
+msgid ""
+"the id is the bold text  eg. http://vimeo.com/<strong>59393483</strong>, "
+"https://www.youtube.com/watch?v=<strong>1LzRIhUAilk</strong>"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:56
+msgid "Poster Image"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:64
+msgid "the image of the video, you see it before playing the video"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:69
+msgid "M4v URL"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:74
+msgid "WEBM URL"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:79
+msgid "OGV URL"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:88
+msgid "MP3 URL"
+msgstr ""
+
+#: ../framework/metaboxes/posts-st.php:93
+msgid "OGG URL"
+msgstr ""
+
+#: ../framework/metaboxes/slider-meta.php:74
+msgid "Title color"
+msgstr ""
+
+#: ../framework/metaboxes/slider-meta.php:79
+msgid "Title background color"
+msgstr ""
+
+#: ../framework/metaboxes/slider-meta.php:84
+#: ../framework/metaboxes/slider-meta.php:113
+msgid "Background opacity"
+msgstr ""
+
+#: ../framework/metaboxes/slider-meta.php:89
+#: ../framework/metaboxes/slider-meta.php:118
+msgid "Close"
+msgstr ""
+
+#: ../framework/metaboxes/slider-meta.php:103
+msgid "Caption color"
+msgstr ""
+
+#: ../framework/metaboxes/slider-meta.php:108
+msgid "Caption background color"
+msgstr ""
+
+#: ../framework/metaboxes/slider-spec.php:5
+#: ../framework/metaboxes/slider-spec.php:14
+msgid "Slides"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:33
+msgid "Page Layout"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:43
+msgid ""
+"Select page layout, none mean you will use the default layout or what you "
+"set by theme options -> theme layout"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:56
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:58
+msgid "Select custom sidebar"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:69
+msgid "Page Options"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:76
+msgid "Enable Page Comments"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:88
+msgid "Post Options"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:95
+msgid "Hide Feature Image"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:101
+msgid "Disable posts share"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:136
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:143
+msgid "Animation"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:147
+msgid "Fade"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:148
+msgid "Slide"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:154
+msgid "Slide Direction"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:159
+msgid "Horizontal"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:160
+msgid "Vertical"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:167
+msgid "Slider Speed"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:179
+msgid "Animation Speed"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:191
+msgid "Control Settings"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:196
+msgid "Animate the slideshows automatically"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:197
+msgid " Adjust the height of the slideshow to the height of the current slide "
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:198
+msgid "Display the \"Previous/Next\" navigation"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:199
+msgid " Display the slideshow pagination "
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:200
+msgid " Enable keyboard navigation "
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:201
+msgid " Enable the touch swipe navigation on touch-screen devices "
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:202
+msgid " Enable the \"Play/Pause\" event "
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:203
+msgid " Randomize the order of slides in slideshows "
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:204
+msgid " Loop the slideshow animations "
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:206
+msgid "  Pause the slideshow autoplay when hovering over a slide "
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:221
+msgid "Slide Settings"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:236
+msgid "Slide Url"
+msgstr ""
+
+#: ../framework/metaboxes/theme.php:238
+msgid "Insert Slide Url"
+msgstr ""
+
+#: ../framework/plugins.php:34
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/plugins.php:47
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../framework/types/portfolio.php:14
+msgid "Portfolio items"
+msgstr ""
+
+#: ../framework/types/portfolio.php:15
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../framework/types/portfolio.php:16 ../framework/types/slider.php:7
+msgid "Add New"
+msgstr ""
+
+#: ../framework/types/portfolio.php:17
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../framework/types/portfolio.php:18
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../framework/types/portfolio.php:19
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../framework/types/portfolio.php:20
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../framework/types/portfolio.php:21
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../framework/types/portfolio.php:22
+msgid "No portfolio item found"
+msgstr ""
+
+#: ../framework/types/portfolio.php:23
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: ../framework/types/portfolio.php:25
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework/types/portfolio.php:27
+msgid "portfolio"
+msgstr ""
+
+#: ../framework/types/portfolio.php:48
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../framework/types/portfolio.php:49
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../framework/types/portfolio.php:50
+msgid "Search Categories"
+msgstr ""
+
+#: ../framework/types/portfolio.php:51
+msgid "Popular Categories"
+msgstr ""
+
+#: ../framework/types/portfolio.php:52
+msgid "All Categories"
+msgstr ""
+
+#: ../framework/types/portfolio.php:55
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../framework/types/portfolio.php:56
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../framework/types/portfolio.php:57
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../framework/types/portfolio.php:58
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../framework/types/portfolio.php:59
+msgid "Separate Portfolio category with commas"
+msgstr ""
+
+#: ../framework/types/portfolio.php:60
+msgid "Add or remove portfolio category"
+msgstr ""
+
+#: ../framework/types/portfolio.php:61
+msgid "Choose from the most used portfolio category"
+msgstr ""
+
+#: ../framework/types/portfolio.php:62 ../template-archive.php:86
+msgid "Categories"
+msgstr ""
+
+#: ../framework/types/slider.php:5
+msgid "Slider items"
+msgstr ""
+
+#: ../framework/types/slider.php:6
+msgid "Slider Items"
+msgstr ""
+
+#: ../framework/types/slider.php:8
+msgid "Add New Slider Item"
+msgstr ""
+
+#: ../framework/types/slider.php:9
+msgid "Edit Slider Item"
+msgstr ""
+
+#: ../framework/types/slider.php:10
+msgid "New Slider Item"
+msgstr ""
+
+#: ../framework/types/slider.php:11
+msgid "View Slider Item"
+msgstr ""
+
+#: ../framework/types/slider.php:12
+msgid "Search Slider Items"
+msgstr ""
+
+#: ../framework/types/slider.php:13
+msgid "No slider item found"
+msgstr ""
+
+#: ../framework/types/slider.php:14
+msgid "No slider items found in Trash"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:13
+msgid "Widget display 120*140 Ads"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:14
+msgid "Momizat - Ads 120*140"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:82 ../framework/widgets/ads120b.php:113
+#: ../framework/widgets/ads120x.php:82 ../framework/widgets/ads125.php:113
+#: ../framework/widgets/ads160.php:68 ../framework/widgets/ads250.php:70
+msgid "advertisement"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:93 ../framework/widgets/ads120b.php:128
+#: ../framework/widgets/ads120x.php:93 ../framework/widgets/ads125.php:131
+#: ../framework/widgets/ads160.php:77 ../framework/widgets/ads250.php:78
+#: ../framework/widgets/fb_likebox.php:90 ../framework/widgets/flickr.php:72
+#: ../framework/widgets/language-switcher.php:75
+#: ../framework/widgets/popular-item.php:171
+#: ../framework/widgets/posts-widget.php:94
+#: ../framework/widgets/postsList-widget.php:100
+#: ../framework/widgets/socials-icons.php:138
+#: ../framework/widgets/twitter-widget.php:79
+#: ../framework/widgets/user-info.php:100
+#: ../framework/widgets/video-widget.php:69
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:98 ../framework/widgets/ads120b.php:133
+#: ../framework/widgets/ads120x.php:98 ../framework/widgets/ads125.php:135
+msgid "First Ad"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:100 ../framework/widgets/ads120.php:116
+#: ../framework/widgets/ads120b.php:135 ../framework/widgets/ads120b.php:151
+#: ../framework/widgets/ads120b.php:168 ../framework/widgets/ads120b.php:184
+#: ../framework/widgets/ads120x.php:100 ../framework/widgets/ads120x.php:116
+#: ../framework/widgets/ads125.php:137 ../framework/widgets/ads125.php:153
+#: ../framework/widgets/ads125.php:170 ../framework/widgets/ads125.php:186
+#: ../framework/widgets/ads160.php:83 ../framework/widgets/ads250.php:84
+msgid "image:"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:105 ../framework/widgets/ads120b.php:140
+#: ../framework/widgets/ads120x.php:105 ../framework/widgets/ads125.php:142
+#: ../framework/widgets/ads160.php:88 ../framework/widgets/ads250.php:89
+msgid "Link :"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:110 ../framework/widgets/ads120.php:126
+#: ../framework/widgets/ads120b.php:145 ../framework/widgets/ads120b.php:161
+#: ../framework/widgets/ads120b.php:178 ../framework/widgets/ads120b.php:194
+#: ../framework/widgets/ads120x.php:110 ../framework/widgets/ads120x.php:126
+#: ../framework/widgets/ads125.php:147 ../framework/widgets/ads125.php:163
+#: ../framework/widgets/ads125.php:180 ../framework/widgets/ads125.php:196
+#: ../framework/widgets/ads160.php:93 ../framework/widgets/ads250.php:94
+msgid "ad code :"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:114 ../framework/widgets/ads120b.php:149
+#: ../framework/widgets/ads120x.php:114 ../framework/widgets/ads125.php:151
+msgid "Second Ad"
+msgstr ""
+
+#: ../framework/widgets/ads120.php:121 ../framework/widgets/ads120b.php:156
+#: ../framework/widgets/ads120x.php:121 ../framework/widgets/ads125.php:158
+msgid "link2 :"
+msgstr ""
+
+#: ../framework/widgets/ads120b.php:13
+msgid "Widget display 120*90 Ads"
+msgstr ""
+
+#: ../framework/widgets/ads120b.php:14
+msgid "Momizat - Ads 120*90"
+msgstr ""
+
+#: ../framework/widgets/ads120b.php:166 ../framework/widgets/ads125.php:168
+msgid "Third Ad"
+msgstr ""
+
+#: ../framework/widgets/ads120b.php:173 ../framework/widgets/ads125.php:175
+msgid "link3 :"
+msgstr ""
+
+#: ../framework/widgets/ads120b.php:182 ../framework/widgets/ads125.php:184
+msgid "fourth Ad"
+msgstr ""
+
+#: ../framework/widgets/ads120b.php:189 ../framework/widgets/ads125.php:191
+msgid "link4 :"
+msgstr ""
+
+#: ../framework/widgets/ads120x.php:13
+msgid "Widget display 120*600 Ads"
+msgstr ""
+
+#: ../framework/widgets/ads120x.php:14
+msgid "Momizat - Ads 120*600"
+msgstr ""
+
+#: ../framework/widgets/ads125.php:13
+msgid "Widget display 125*125 Ads"
+msgstr ""
+
+#: ../framework/widgets/ads125.php:14
+msgid "Momizat - Ads 125*125"
+msgstr ""
+
+#: ../framework/widgets/ads160.php:13
+msgid "Widget display 160*600 Ads"
+msgstr ""
+
+#: ../framework/widgets/ads160.php:14
+msgid "Momizat - Ads 160*600"
+msgstr ""
+
+#: ../framework/widgets/ads250.php:13
+msgid "Widget display 250*250 Ads"
+msgstr ""
+
+#: ../framework/widgets/ads250.php:14
+msgid "Momizat - Ads 250*250"
+msgstr ""
+
+#: ../framework/widgets/comments-widget.php:12
+msgid "Widget display Recent Comments with avatar"
+msgstr ""
+
+#: ../framework/widgets/comments-widget.php:15
+msgid "Momizat - Recent Comments"
+msgstr ""
+
+#: ../framework/widgets/comments-widget.php:43
+#: ../framework/widgets/comments-widget.php:45
+#: ../framework/widgets/tabbed-widget.php:144
+#: ../framework/widgets/tabbed-widget.php:146
+msgid "on "
+msgstr ""
+
+#: ../framework/widgets/comments-widget.php:78
+#: ../framework/widgets/tabbed-widget.php:198
+msgid "Comments"
+msgstr ""
+
+#: ../framework/widgets/comments-widget.php:84
+#: ../framework/widgets/social-counter.php:143
+msgid "title:"
+msgstr ""
+
+#: ../framework/widgets/comments-widget.php:89
+msgid "Number of comments"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:13
+msgid "Facebook Like Box"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:15
+msgid "Momizat - Facebook Likebox"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:95
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:101
+msgid "Width:"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:106
+msgid "Height:"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:111
+msgid "Color Scheme"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:120
+msgid "Background Color:"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:124
+msgid "Box border Color:"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:130
+msgid "Show faces"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:135
+msgid "Show stream"
+msgstr ""
+
+#: ../framework/widgets/fb_likebox.php:140
+msgid "Show header"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:13
+msgid "Widget display Flickr Photo"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:14
+msgid "Momizat - Flickr"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:77
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:82
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:87
+#: ../framework/widgets/popular-item.php:176
+msgid "Type (user or group):"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:95
+msgid "Display (random or latest):"
+msgstr ""
+
+#: ../framework/widgets/language-switcher.php:13
+msgid "display languages switcher"
+msgstr ""
+
+#: ../framework/widgets/language-switcher.php:16
+msgid "Momizat - Language Swticher"
+msgstr ""
+
+#: ../framework/widgets/language-switcher.php:70
+msgid "Languages"
+msgstr ""
+
+#: ../framework/widgets/popular-item.php:13
+msgid "Widget display one popular media it can be (image, video) only"
+msgstr ""
+
+#: ../framework/widgets/popular-item.php:14
+msgid "Momizat - Popular Item"
+msgstr ""
+
+#: ../framework/widgets/popular-item.php:165
+msgid "Popular Video"
+msgstr ""
+
+#: ../framework/widgets/posts-widget.php:13
+#: ../framework/widgets/postsList-widget.php:13
+msgid "Widget display Posts order by : Popular, Random, Recent"
+msgstr ""
+
+#: ../framework/widgets/posts-widget.php:14
+msgid "Momizat - Posts"
+msgstr ""
+
+#: ../framework/widgets/posts-widget.php:85
+#: ../framework/widgets/postsList-widget.php:91
+msgid "Most Popular"
+msgstr ""
+
+#: ../framework/widgets/posts-widget.php:99
+#: ../framework/widgets/postsList-widget.php:105
+msgid "orderby"
+msgstr ""
+
+#: ../framework/widgets/posts-widget.php:109
+#: ../framework/widgets/postsList-widget.php:115
+msgid "Number Of Posts:"
+msgstr ""
+
+#: ../framework/widgets/postsList-widget.php:14
+msgid "Momizat - Posts List"
+msgstr ""
+
+#: ../framework/widgets/social-counter.php:12
+msgid ""
+"Widget display a count of your rss subscribers, Twitter followers, facebook "
+"fans"
+msgstr ""
+
+#: ../framework/widgets/social-counter.php:15
+msgid "Momizat - Social Counter"
+msgstr ""
+
+#: ../framework/widgets/social-counter.php:88
+msgid "Subscribers"
+msgstr ""
+
+#: ../framework/widgets/social-counter.php:97
+msgid "Followers"
+msgstr ""
+
+#: ../framework/widgets/social-counter.php:106
+msgid "Fans"
+msgstr ""
+
+#: ../framework/widgets/social-counter.php:148
+msgid "rss number (if not use feedburner, or want static number)"
+msgstr ""
+
+#: ../framework/widgets/social-counter.php:153
+msgid "RSS Link (leave empty to use default rss link)"
+msgstr ""
+
+#: ../framework/widgets/social-counter.php:159
+msgid "Twitter Name"
+msgstr ""
+
+#: ../framework/widgets/social-counter.php:164
+msgid ""
+"facebook page ID (<a target=\"_blank\" href=\"http://hellboundbloggers."
+"com/2010/07/10/find-facebook-profile-and-page-id/\">more Info</a>)"
+msgstr ""
+
+#: ../framework/widgets/socials-icons.php:13
+msgid "Widget display social icons"
+msgstr ""
+
+#: ../framework/widgets/socials-icons.php:14
+msgid "Momizat - social icons"
+msgstr ""
+
+#: ../framework/widgets/socials-icons.php:127
+msgid "Follow US"
+msgstr ""
+
+#: ../framework/widgets/socials-icons.php:153
+msgid "google plus"
+msgstr ""
+
+#: ../framework/widgets/socials-icons.php:163
+msgid "youtube"
+msgstr ""
+
+#: ../framework/widgets/socials-icons.php:168
+msgid "skype"
+msgstr ""
+
+#: ../framework/widgets/socials-icons.php:173
+msgid "feedburner"
+msgstr ""
+
+#: ../framework/widgets/socials-icons.php:178
+msgid "flickr"
+msgstr ""
+
+#: ../framework/widgets/socials-icons.php:183
+msgid "picasa"
+msgstr ""
+
+#: ../framework/widgets/tabbed-widget.php:12
+msgid ""
+"A tabbed Widgets that display popular posts, recent posts, recent comments "
+"and tags"
+msgstr ""
+
+#: ../framework/widgets/tabbed-widget.php:15
+msgid "Momizat - Tabbed Widget"
+msgstr ""
+
+#: ../framework/widgets/tabbed-widget.php:196
+msgid "Popular"
+msgstr ""
+
+#: ../framework/widgets/tabbed-widget.php:197
+msgid "Recent"
+msgstr ""
+
+#: ../framework/widgets/tabbed-widget.php:204
+msgid "Tab1 Title:"
+msgstr ""
+
+#: ../framework/widgets/tabbed-widget.php:210
+msgid "tab2 Title:"
+msgstr ""
+
+#: ../framework/widgets/tabbed-widget.php:215
+msgid "tab3 Title:"
+msgstr ""
+
+#: ../framework/widgets/tabbed-widget.php:220
+msgid "tab4 Title:"
+msgstr ""
+
+#: ../framework/widgets/twitter-widget.php:13
+msgid "Widget display Latest Tweets"
+msgstr ""
+
+#: ../framework/widgets/twitter-widget.php:16
+msgid "Momizat - Twitter"
+msgstr ""
+
+#: ../framework/widgets/twitter-widget.php:42
+msgid "loading twitter feed..."
+msgstr ""
+
+#: ../framework/widgets/twitter-widget.php:84
+msgid "Twitter username:"
+msgstr ""
+
+#: ../framework/widgets/twitter-widget.php:89
+msgid "Number of tweets:"
+msgstr ""
+
+#: ../framework/widgets/user-info.php:13
+msgid "Widget display User Information"
+msgstr ""
+
+#: ../framework/widgets/user-info.php:14
+msgid "Momizat - User Info"
+msgstr ""
+
+#: ../framework/widgets/user-info.php:59
+msgid "Follow me on : "
+msgstr ""
+
+#: ../framework/widgets/user-info.php:92
+msgid "About Me"
+msgstr ""
+
+#: ../framework/widgets/user-info.php:105
+msgid "Select User"
+msgstr ""
+
+#: ../framework/widgets/video-widget.php:13
+msgid "Widget display viddeo support Youtube, vimeo, dailymotion"
+msgstr ""
+
+#: ../framework/widgets/video-widget.php:16
+msgid "Momizat - Videos"
+msgstr ""
+
+#: ../framework/widgets/video-widget.php:74
+msgid "type"
+msgstr ""
+
+#: ../framework/widgets/video-widget.php:83
+msgid "Video ID:"
+msgstr ""
+
+#: ../header.php:38
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> or <a href=\"http://www.google."
+"com/chromeframe/?redirect=true\">activate Google Chrome Frame</a> to improve "
+"your experience."
+msgstr ""
+
+#: ../header.php:177 ../searchform.php:3
+msgid "Search ..."
+msgstr ""
+
+#: ../posts-loop.php:2
+msgid "Search results for "
+msgstr ""
+
+#: ../posts-loop.php:8
+msgid "Written by: \""
+msgstr ""
+
+#: ../posts-loop.php:16
+msgid "Category: "
+msgstr ""
+
+#: ../posts-loop.php:19
+msgid "Tagged by: "
+msgstr ""
+
+#: ../posts-loop.php:24
+msgid "Archives for: "
+msgstr ""
+
+#: ../posts-loop.php:118
+msgid "No Comments"
+msgstr ""
+
+#: ../posts-loop.php:118
+msgid "1 Comment"
+msgstr ""
+
+#: ../posts-loop.php:118
+msgid "% Comments"
+msgstr ""
+
+#: ../posts-loop.php:121
+msgid "1"
+msgstr ""
+
+#: ../posts-loop.php:121
+msgid "%"
+msgstr ""
+
+#: ../posts-loop.php:123
+msgid "Views: "
+msgstr ""
+
+#: ../template-archive.php:62
+msgid "Last 30 Posts"
+msgstr ""
+
+#: ../template-archive.php:71
+msgid "Pages"
+msgstr ""
+
+#: ../template-archive.php:80
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../template-archive.php:93
+msgid "Tag Cloud"
+msgstr ""
